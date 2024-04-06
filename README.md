@@ -85,7 +85,7 @@ An ardent, proactive, results-driven Cloud and Information Systems Security Prof
 
 ### DataService Group INC. | Bear, DE 
 
-#### Associate Cloud Information Security Analyst //*(Contract) - Remote*
+#### Associate Cloud Information Security Analyst //*(Contract) - Hybrid-Remote*
 
 ##### *May 2019 - March 2021*
 
@@ -116,7 +116,7 @@ An ardent, proactive, results-driven Cloud and Information Systems Security Prof
 
 ### iCare Medical Systems | Texas City, TX
 
-#### Linux Operations Engineer //*(Contract) - Hybrid*
+#### Linux Operations Engineer //*(Contract) - Hybrid-Remote*
 
 ##### *April 2016 - March 2018*
 
