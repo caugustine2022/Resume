@@ -13,7 +13,7 @@
 ### **Professional Summary**
 ----
 
-An ardent, proactive, results-driven Cloud and Information Systems Security Professional with over 8+ years of expertise implementing and managing robust security and scalable cloud environments. Proven track record of establishing and maintaining robust security measures while optimizing infrastructure performance and reliability. Seeking to leverage skills and expertise in cloud security architecture, automation, infrastructure management, and compliance to drive efficiency, reliability, and security initiatives to ensure the integrity and availability of digital assets of a forward-thinking and dynamic organization committed to safeguarding its critical infrastructure.          
+As an ardent, proactive, and results-driven Cloud and Information Systems Security Professional with over 5 years of experience, my expertise lies in implementing and managing security measures in cloud environments to ensure effective scalability. I have a proven track record in cloud security architecture, automation, and compliance adherence, successfully establishing secure infrastructures while optimizing performance. Working collaboratively, I ensure applications maintain high availability, scalability, and security. I identify and resolve performance issues and am proficient in AWS resource setup, containerized application orchestration, and implementing monitoring solutions. I am seeking to leverage my development, security, and operations skills and expertise to safeguard your digital assets.          
 
 
 ----
@@ -76,27 +76,26 @@ An ardent, proactive, results-driven Cloud and Information Systems Security Prof
 
 ##### *Average Hrs/Wk: 40*
 
+* Performed security risk assessments, identifying vulnerabilities and devising mitigation strategies. Developed and enforced security policies, standards, and guidelines to fortify data protection.
+* Monitored security systems for anomalous behavior, swiftly responding to incidents and conducting comprehensive security audits. Provided direct IT security support, oversaw information security testing, and recommended measures to mitigate identified risks.
 * Implemented robust monitoring and alerting systems using tools like; Prometheus with Grafana, and Splunk that increased incident response efficiency by identifying issues proactively.
-* Automated and integrated security processes and controls throughout our entire SDLC, from IDEs (VS code) to source control systems (Git/GitHub) to CI/CD pipelines (Jenkins) to production deployments.
-* Collaborated with DevOps, Software Engineering, and Product Management to continuously improve our application security strategies and priorities for protecting our customers and company.
-* Performed monthly security scans using the Nessus tool to verify the configuration, patch, and vulnerabilities on systems in scope. Followed up with internal and external stakeholders and kept track of vulnerabilities and remediation status.
-* Reviewed current security system configurations for correctness; monitored, reported, and investigated access to determine unauthorized access attempts; provided continuous testing of systems for situations requiring corrective action. 
+* Conducted monthly security scans using Nessus to assess system configuration, patches, and vulnerabilities; and followed-up with internal and external stakeholders, tracking vulnerabilities and their remediation progress.
+* Reviewed current security system configurations, monitored, and investigated access to detect unauthorized attempts, and managed user provisioning across diverse accounts and applications. 
 
 
 ### DataService Group INC. | Bear, DE 
 
-#### Associate Cloud Information Security Analyst //*(Contract) - Hybrid-Remote*
+#### Associate Cloud Security Analyst //*(Contract) - Hybrid-Remote*
 
 ##### *May 2019 - March 2021*
 
 ##### *Average Hrs/Wk: 40*
 
-* Assisted in monthly cycle patching in AWS for over 100+ development and production servers, swiftly addressing security vulnerabilities, and bolstering system stability across the company’s infrastructure.
-* Monitored logs and reviewed alerts (using Prometheus with Grafana) while identifying, remediating, and escalating incidents that occurred within the environment.
-* Monitored real-time security alerts and events using Splunk and Wireshark; then, developed and maintained technical documentation around discovering/mitigating threats and vulnerabilities.
-* Used Jira to create a security vulnerability dashboard as a tracking mechanism whereby vulnerabilities are resolved in a time frame in support of the Agile methodology.
-* Assisted in phishing and cyber threats defense; responded to user-engaged malicious links, isolated compromised systems, and executed threat remediation to substantially mitigate potential harm.
-* Conducted regular risk assessments and audits to identify potential threats to the cloud environment, contributing to the overall risk mitigation strategy.
+* Assisted in conducting security assessments of cloud-based infrastructure, platforms, and applications to identify vulnerabilities, risks, and compliance issues.
+* Developed and implemented security measures, policies, and procedures to protect cloud-based assets and data from unauthorized access, data breaches, and other security threats.
+* Monitored and analyzed security events and incidents in cloud environments and responded promptly to mitigate risks and minimize potential damages.
+* Collaborated with cross-functional teams, including system administrators, network engineers, and software developers, to ensure cloud security best practices are followed throughout the organization.
+* Stayed current with the latest industry trends, emerging threats, and best practices in cloud security, and provided recommendations for enhancing the organization's cloud security posture.
 
 
 ### DataService Group INC. | Bear, DE  
@@ -107,28 +106,26 @@ An ardent, proactive, results-driven Cloud and Information Systems Security Prof
 
 ##### *Average Hrs/Wk: 40*
 
-* Collaborated with cross-functional teams to manage and maintain AWS cloud infrastructure, ensuring high availability, scalability, and security for mission-critical applications.
-* Worked in a team to set up and configure AWS resources, including EC2 instances, VPCs, S3 buckets, IAM, and RDS databases. Optimized AWS resources for performance, cost, and security, leveraging services like Auto Scaling, EC2 Spot Instances, and AWS Trusted Advisor.
-* Contributed to Docker-based application deployment, used Terraform for infrastructure-as-code (IaC) to automate provisioning, managed CI/CD pipelines with Jenkins, with 90%-time reduction—Orchestrated containerized applications with Kubernetes for improved deployment efficiency.
-* Established robust monitoring and alerting using AWS CloudWatch and Prometheus with Grafana, proactively identifying and resolving performance bottlenecks.
-* Collaborated with security teams to conduct regular audits and Implemented security best practices, including IAM policies, encryption, network ACLs, and VPC peering, to protect cloud resources from unauthorized access and data breaches.
+* Assisted in implementing cloud infrastructure projects by designing, deploying, and optimizing cloud environments for scalability and performance, while also developing and implementing automation scripts and tools to streamline provisioning, deployment, and management processes.
+* Managed cloud infrastructure upgrades, migrations, and maintenance activities, ensuring high availability, reliability, and cost optimization of cloud services.
+* Conducted regular assessments and audits of cloud infrastructure to identify vulnerabilities, risks, and compliance gaps, recommending and implementing mitigation strategies.
+* Collaborated with cross-functional teams to integrate security controls, networking configurations, and automation tools into cloud environments to enhance operational efficiency and data protection.
+* Participated in incident response activities, troubleshooting cloud-related issues, conducting root cause analysis, and implementing preventive measures to enhance the resilience of cloud infrastructure.
   
 
 ### iCare Medical Systems | Texas City, TX
 
-#### Linux Operations Engineer //*(Contract) - Hybrid-Remote*
+#### Cloud and Linux Operations Engineer //*(Contract) - Hybrid-Remote*
 
 ##### *April 2016 - March 2018*
 
 ##### *Average Hrs/Wk: 32-60*
 
-*	Managed high-availability CentOS and Ubuntu server infrastructure, provided tier 2 support for Linux issues, ensuring rapid problem resolution, achieving 99.9% uptime.
-*	Developed Bash and Python automation scripts; installed, configured, and managed LAMP (Linux/Apache/MySQL/PHP) Stacks using Ansible playbook, reducing manual tasks by 60%..
-*	Evaluated and recommended new technologies to improve performance and scalability.
-*	Contributed to network design, enhancing security through VLANs and firewalls.
-*	Implemented monitoring solutions (Nagios, Prometheus) for proactive system health management.
-*	Performed system performance tuning, monitored vulnerability assessments, analyzed application logs; Performed security audits, and applied patches for PCI-DSS and HIPAA compliance for instance.
-*	Mentored junior team members to foster professional growth and expertise.
+*	Managed high-availability CentOS and Ubuntu server infrastructure, and provided tier 2 support for Linux systems issues, ensuring rapid problem resolution, achieving 99.9% uptime.
+*	Created Bash and Python scripts for automation; deployed and managed LAMP (Linux/Apache/MySQL/PHP) Stacks through Ansible playbook, slashing manual workload by 60%.
+*	Implemented encryption mechanisms and data protection controls for sensitive information stored in the cloud, collaborating with DevOps teams to integrate security controls into the CI/CD pipeline.
+*	Developed and maintained cloud security architecture frameworks, ensuring compliance with regulatory requirements, and implemented log management monitoring solutions (Nagios and Prometheus/Grafana) for real-time detection of security incidents in the cloud environment.
+*	Implemented secure configurations and access controls for cloud infrastructure components and collaborated with incident response teams to investigate and resolve security breaches in cloud environments.
 
 
 ### test IO | San Francisco, CA.
@@ -149,10 +146,10 @@ An ardent, proactive, results-driven Cloud and Information Systems Security Prof
 
 ##### *Average Hrs/Wk: 40-60*
 
-* Assisted in deploying security patches and driver updates across company Windows servers and workstations utilizing Windows Server Update Services, achieving a 99% success rate.
-* Helped slash risks and malware threats by 60%, analyzing systems security, patch management, and vulnerability scans using Nessus while producing metrics reports and recommendations.
-* Maintained and supported the internal security systems, including firewalls, IDS/IPS, identity access management, log management, and patch management systems, with a 70% success rate.
-* Assisted in updating and documenting security plans to meet the ISO 27K and the NIST 800.53 standards, achieving 95% data security.
+* Conducted security assessments and risk analyses to identify vulnerabilities and potential threats.
+* Developed and enforced privacy policies and training programs to comply with data protection regulations.
+* Managed operational risks for sensitive information assets, and oversaw data agreements/privacy impact assessments.
+* Collaborated with cross-functional teams to assess business operations, and developed privacy/security measures.
 
 
 ----
@@ -162,7 +159,7 @@ An ardent, proactive, results-driven Cloud and Information Systems Security Prof
 ----
 ----
 
-2020-2025 *(Expected)*
+2020-2026 *(Expected)*
 :   **Doctor of Philosophy (Ph.D.) Degree, Major: Information Technology; Information Security Emphasis**; University of the Cumberlands - Williamsburg, KY
 
 2019-2020
