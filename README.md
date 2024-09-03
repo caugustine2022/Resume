@@ -24,11 +24,11 @@ Highly skilled Senior Information Technology Cybersecurity Professional, pursuin
 ----
 
 
-###### Security Tools:	Nessus, Wireshark, Splunk, Prometheus with Grafana, Nagios
-###### DevOps & Automation:	Docker, Kubernetes, Jenkins, Ansible, Terraform, SonarQube, Git/GitHub
-###### Scripting Languages:	Bash, Python, PowerShell, JavaScript
-###### Cloud Platforms:	Amazon Web Services (AWS EC2, IAM, Lambda, S3, EBS, RDS, DynamoDB, VPC, Route 53)
-###### Operating Systems:	Windows, RedHat, CentOS, Ubuntu
+###### Security Tools:	*Nessus, Wireshark, Splunk, Prometheus with Grafana, Nagios*
+###### DevOps & Automation:	*Docker, Kubernetes, Jenkins, Ansible, Terraform, SonarQube, Git/GitHub*
+###### Scripting Languages:	*Bash, Python, PowerShell, JavaScript*
+###### Cloud Platforms:	*Amazon Web Services (AWS EC2, IAM, Lambda, S3, EBS, RDS, DynamoDB, VPC, Route 53)*
+###### Operating Systems:	*Windows, RedHat, CentOS, Ubuntu*
 ###### Project Management:	*Jira-Kanban Board, Confluence*
 ###### Domain:	*Cloud Security Architecture, Infrastructure Management, Compliance Adherence, Security Monitoring, Vulnerability Management, Identity Access Management, Risk Assessments, Data Protection, Incident Response, Privacy Policies*
 ###### Security and Privacy:	*Endpoint Security, Identity Access Management, Risk Assessment Management, Data Encryption and Cryptography, Log Management, Data Privacy Solutions, Security Frameworks & Compliance*
@@ -50,12 +50,11 @@ Highly skilled Senior Information Technology Cybersecurity Professional, pursuin
 ##### *Average Hrs/Wk: 40*
 
 Execute comprehensive security risk evaluations to pinpoint system vulnerabilities across company and government networks. Develop and implement robust data-safeguarding strategies through the rigorous application of security protocols. Supervise mission-critical security infrastructure, ensuring swift incident response and performing meticulous security audits. Orchestrate monthly vulnerability scans, coordinating mitigation efforts with interdepartmental teams. Fine-tune security configurations, investigate potential security breaches and administer user access for sensitive company and government applications.
-* •	Transformed security monitoring by implementing an advanced SIEM solution, enhancing threat detection and reducing response times by one-third.
-* •	Developed and deployed monitoring and alerting systems with Splunk, and Prometheus with Grafana, for proactive security management.
-* •	Conducted thorough security assessments, significantly reducing system vulnerabilities.
-* •	Led cross-functional teams to tackle complex security challenges and implement best practices.
-* •	Stayed updated on emerging threats, providing strategic recommendations to strengthen security.
-
+* Transformed security monitoring by implementing an advanced SIEM solution, enhancing threat detection and reducing response times by one-third.
+* Developed and deployed monitoring and alerting systems with Splunk, and Prometheus with Grafana, for proactive security management.
+* Conducted thorough security assessments, significantly reducing system vulnerabilities.
+* Led cross-functional teams to tackle complex security challenges and implement best practices.
+* Stayed updated on emerging threats, providing strategic recommendations to strengthen security.
 
 
 ### DataService Group INC. | Bear, DE 
@@ -66,11 +65,11 @@ Execute comprehensive security risk evaluations to pinpoint system vulnerabiliti
 
 ##### *Average Hrs/Wk: 40*
 
-* Assisted in conducting security assessments of cloud-based infrastructure, platforms, and applications to identify vulnerabilities, risks, and compliance issues.
-* Developed and implemented security measures, policies, and procedures to protect cloud-based assets and data from unauthorized access, data breaches, and other security threats.
-* Monitored and analyzed security events and incidents in cloud environments and responded promptly to mitigate risks and minimize potential damages.
-* Collaborated with cross-functional teams, including system administrators, network engineers, and software developers, to ensure cloud security best practices are followed throughout the organization.
-* Stayed current with the latest industry trends, emerging threats, and best practices in cloud security, and provided recommendations for enhancing the organization's cloud security posture.
+Performed exhaustive security evaluations of cloud-based infrastructures crucial to company and government operations. Formulated and implemented tailored security measures and policies to safeguard classified cloud assets, ensuring strict adherence to federal compliance frameworks. Vigilantly monitored cloud environments for security incidents, swiftly analyzing and neutralizing potential threats to minimize impact on company and government systems.
+*	Reduced cloud security vulnerabilities by 40% through analysis and automated security policies.
+*	Led initiatives to fix major cloud misconfigurations, enhancing system integrity and data protection.
+*	Collaborated with IT teams to ensure compliance with cloud security best practices.
+*	Coordinated complex security projects across departments, ensuring timely completion and adherence to government standards.
 
 
 ### DataService Group INC. | Bear, DE  
@@ -81,11 +80,10 @@ Execute comprehensive security risk evaluations to pinpoint system vulnerabiliti
 
 ##### *Average Hrs/Wk: 40*
 
-* Assisted in implementing cloud infrastructure projects by designing, deploying, and optimizing cloud environments for scalability and performance, while also developing and implementing automation scripts and tools to streamline provisioning, deployment, and management processes.
-* Managed cloud infrastructure upgrades, migrations, and maintenance activities, ensuring high availability, reliability, and cost optimization of cloud services.
-* Conducted regular assessments and audits of cloud infrastructure to identify vulnerabilities, risks, and compliance gaps, recommending and implementing mitigation strategies.
-* Collaborated with cross-functional teams to integrate security controls, networking configurations, and automation tools into cloud environments to enhance operational efficiency and data protection.
-* Participated in incident response activities, troubleshooting cloud-related issues, conducting root cause analysis, and implementing preventive measures to enhance the resilience of cloud infrastructure.
+Conceptualized, deployed, and optimized cloud environments to meet the scalability and performance requirements of government systems. Developed automation scripts and tools to streamline provisioning, deployment, and management processes for secure government cloud services. Maintained high availability and reliability of critical cloud services through meticulous management of upgrades, migrations, and maintenance procedures. Conducted thorough assessments and audits to identify and mitigate vulnerabilities, risks, and compliance issues within sensitive government cloud environments.
+* Improved cloud security by implementing advanced encryption, identity and access management, and enhanced monitoring, reducing security incidents.
+* Worked with cross-functional teams to integrate security controls and optimize networking, boosting efficiency and data protection.
+* Supported incident response by performing root cause analysis and implementing preventive measures, strengthening infrastructure resilience.
   
 
 ### iCare Medical Systems | Texas City, TX
@@ -96,11 +94,10 @@ Execute comprehensive security risk evaluations to pinpoint system vulnerabiliti
 
 ##### *Average Hrs/Wk: 32-60*
 
-*	Managed high-availability CentOS and Ubuntu server infrastructure, and provided tier 2 support for Linux systems issues, ensuring rapid problem resolution, achieving 99.9% uptime.
-*	Created Bash and Python scripts for automation; deployed and managed LAMP (Linux/Apache/MySQL/PHP) Stacks through Ansible playbook, slashing manual workload by 60%.
-*	Implemented encryption mechanisms and data protection controls for sensitive information stored in the cloud, collaborating with DevOps teams to integrate security controls into the CI/CD pipeline.
-*	Developed and maintained cloud security architecture frameworks, ensuring compliance with regulatory requirements, and implemented log management monitoring solutions (Nagios and Prometheus/Grafana) for real-time detection of security incidents in the cloud environment.
-*	Implemented secure configurations and access controls for cloud infrastructure components and collaborated with incident response teams to investigate and resolve security breaches in cloud environments.
+Fortified cloud security by implementing robust encryption and data protection controls, collaborating closely with DevOps teams to seamlessly integrate security measures into CI/CD pipelines. Maintained and updated cloud security architecture frameworks to ensure ongoing regulatory compliance. Implemented comprehensive monitoring solutions, including Nagios, and Prometheus with Grafana, for real-time incident detection and response. Collaborated on secure configuration and access control mechanisms for cloud infrastructure and partnered with incident response teams to address and mitigate security breaches.
+* Developed automated CI/CD pipelines with Jenkins and GitLab, reducing deployment times and minimizing issues.
+* Enhanced server stability and performance, achieving near-perfect uptime.
+* Reduced manual server management by implementing Ansible playbooks for LAMP Stacks.
 
 
 ### test IO | San Francisco, CA.
@@ -121,10 +118,10 @@ Execute comprehensive security risk evaluations to pinpoint system vulnerabiliti
 
 ##### *Average Hrs/Wk: 40-60*
 
-* Conducted security assessments and risk analyses to identify vulnerabilities and potential threats.
-* Developed and enforced privacy policies and training programs to comply with data protection regulations.
-* Managed operational risks for sensitive information assets, and oversaw data agreements/privacy impact assessments.
-* Collaborated with cross-functional teams to assess business operations, and developed privacy/security measures.
+Evaluated and mitigated information security risks by conducting thorough analyses of vulnerabilities and potential threats across organizational systems. Developed comprehensive privacy policies and training programs to ensure compliance with stringent data protection regulations. Managed operational risks associated with sensitive information assets, including oversight of data agreements and privacy impact assessments. Collaborated with various departments to evaluate business operations and implement appropriate privacy and security measures.
+* Improved incident response by creating a comprehensive plan and conducting regular exercises, reducing response times.
+* Streamlined handling procedures to minimize damage and enhance team coordination.
+* Adapted swiftly to new privacy regulations, developing actionable policies and procedures.
 
 
 ----
@@ -134,7 +131,7 @@ Execute comprehensive security risk evaluations to pinpoint system vulnerabiliti
 ----
 ----
 
-2020-2026 *(Expected)*
+*((In Progress))*
 :   **Doctor of Philosophy (Ph.D.) Degree, Major: Information Technology; Information Security Emphasis**; University of the Cumberlands - Williamsburg, KY
 
 2019-2020
@@ -147,7 +144,7 @@ Execute comprehensive security risk evaluations to pinpoint system vulnerabiliti
 :   **Bachelor of Science (B.S.) Degree, Major: Information Technology**; University of Massachusetts Lowell - Lowell, MA
     
 1998-2001
-:   **Bachelor of Science (B.S.) Degree, Major: Electrical and Electronic Engineering; Electronics/Telecommunications and Computer Engineering Option**; National Polytechnic University Institute - Bamenda, CM / Our Saviour Institute of Science, Agriculture & Technology – Enugu, NG
+:   **Bachelor of Science (B.S.) Degree, Major: Electrical and Electronic Engineering; Electronics/Telecommunications and Computer Engineering Option**; National Polytechnic University Institute - Bamenda, CM
 
 
 ----
@@ -157,10 +154,8 @@ Execute comprehensive security risk evaluations to pinpoint system vulnerabiliti
 ----
 ----
 
-2024-12 (Work-in-Progress)
-: **(ISC)2 (CISSP)** – Certified Information Systems Security Professional.
+: **(ISC)2 (CISSP)** – Certified Information Systems Security Professional (In Progress)
 
-2021-03 (Certified)
 : **ISACA®’s (CDPSE)** – Certified Data Privacy Solutions Engineer.
 
 
