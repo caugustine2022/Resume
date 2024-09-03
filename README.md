@@ -19,12 +19,11 @@ Highly skilled Senior Information Technology Cybersecurity Professional, pursuin
 ----
 ----
 
-### **Skills Highlights**
+### **Technical Proficiencies**
 ----
 ----
 
 
-#### *Cloud/DevOps Tools:* 
 ###### Security Tools:	Nessus, Wireshark, Splunk, Prometheus with Grafana, Nagios
 ###### DevOps & Automation:	Docker, Kubernetes, Jenkins, Ansible, Terraform, SonarQube, Git/GitHub
 ###### Scripting Languages:	Bash, Python, PowerShell, JavaScript
