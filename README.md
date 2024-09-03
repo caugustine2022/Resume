@@ -5,7 +5,7 @@
 ----
 ----
 
-#### *👉 💥 | Cloud and Information Systems Security Professional ⚡ Information Security Ph.D. Researcher | …✍️*
+#### *👉 💥 | Information Technology Cybersecurity Professional ⚡ Information Technology Ph.D. Researcher | …✍️*
 ----
 ----
 
@@ -13,7 +13,7 @@
 ### **Professional Summary**
 ----
 
-As an ardent, proactive, and results-driven Cloud and Information Systems Security Professional with over 5 years of experience, my expertise lies in implementing and managing security measures in cloud environments to ensure effective scalability. I have a proven track record in cloud security architecture, automation, and compliance adherence, successfully establishing secure infrastructures while optimizing performance. Working collaboratively, I ensure applications maintain high availability, scalability, and security. I identify and resolve performance issues and am proficient in AWS resource setup, containerized application orchestration, and implementing monitoring solutions. I am seeking to leverage my development, security, and operations skills and expertise to safeguard your digital assets.          
+Highly skilled Senior Information Technology Cybersecurity Professional, pursuing a Ph.D. in Information Technology, bringing innovative ideas to cloud security, infrastructure management, and compliance. Proven track record of enhancing security postures through risk assessments, vulnerability management, and implementation of robust security measures. Adept at leveraging advanced tools like Splunk, Prometheus with Grafana, and AWS services to optimize security monitoring and incident response. Demonstrates strong leadership in guiding cross-functional teams and managing complex security projects. Combines academic expertise with hands-on experience, offering a unique blend of theoretical depth and practical expertise to tackle evolving cybersecurity challenges in company and government environments.          
 
 
 ----
@@ -76,11 +76,13 @@ As an ardent, proactive, and results-driven Cloud and Information Systems Securi
 
 ##### *Average Hrs/Wk: 40*
 
-* Performed security risk assessments, identifying vulnerabilities and devising mitigation strategies. Developed and enforced security policies, standards, and guidelines to fortify data protection.
-* Monitored security systems for anomalous behavior, swiftly responding to incidents and conducting comprehensive security audits. Provided direct IT security support, oversaw information security testing, and recommended measures to mitigate identified risks.
-* Implemented robust monitoring and alerting systems using tools like; Prometheus with Grafana, and Splunk that increased incident response efficiency by identifying issues proactively.
-* Conducted monthly security scans using Nessus to assess system configuration, patches, and vulnerabilities; and followed-up with internal and external stakeholders, tracking vulnerabilities and their remediation progress.
-* Reviewed current security system configurations, monitored, and investigated access to detect unauthorized attempts, and managed user provisioning across diverse accounts and applications. 
+* Execute comprehensive security risk evaluations to pinpoint system vulnerabilities across company and government networks. Develop and implement robust data-safeguarding strategies through the rigorous application of security protocols. Supervise mission-critical security infrastructure, ensuring swift incident response and performing meticulous security audits. Orchestrate monthly vulnerability scans, coordinating mitigation efforts with interdepartmental teams. Fine-tune security configurations, investigate potential security breaches and administer user access for sensitive company and government applications.
+* •	Transformed security monitoring by implementing an advanced SIEM solution, enhancing threat detection and reducing response times by one-third.
+* •	Developed and deployed monitoring and alerting systems with Splunk, and Prometheus with Grafana, for proactive security management.
+* •	Conducted thorough security assessments, significantly reducing system vulnerabilities.
+* •	Led cross-functional teams to tackle complex security challenges and implement best practices.
+* •	Stayed updated on emerging threats, providing strategic recommendations to strengthen security.
+
 
 
 ### DataService Group INC. | Bear, DE 
