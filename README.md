@@ -23,43 +23,17 @@ Highly skilled Senior Information Technology Cybersecurity Professional, pursuin
 ----
 ----
 
-#### *Operating Systems:*
-###### Windows: | *Win 7/8/10/11 / Server 2016/2019* | 
-###### Unix/Linux Distributions: | *MacOS | RedHat / CentOS / Ubuntu / Debian / Oracle Linux / Kali Linux* | 
 
 #### *Cloud/DevOps Tools:* 
-###### Cloud Platform: | *AWS* | 
-###### AWS Resources: | *EC2 / ELB / IAM / RDS / S3 Bucket / EBS / SNS / VPC / EKS / ECR / CloudWatch / Route53* | 
-###### Configuration Management: | *Ansible* | 
-###### Containerization/Orchestration: | *Docker / Kubernetes* | 
-###### Continuous Integration (CI)/Continuous Delivery (CD): | *Jenkins / Ansible* | 
-###### Infrastructure Automation (IaC): | *Terraform / AWS CloudFormation* | 
-###### Infrastructure Automation (Build): | *Gradle / Maven / Terraform / AWS CloudFormation* | 
-###### Source Code Management (SCM): | *Git/GitHub* | 
-###### Testing/Deployment: | *Selenium / Jenkins / Kubernetes / Ansible* | 
-###### Load Balancer: | *HAProxy / Nginx* | 
-###### Code Quality Analysis/Integration: | *SonarQube / Selenium* | 
-###### Collaboration: | *JIRA-Kanban board/Confluence (Wiki)* | 
-###### Web/App Servers: | *Apache Tomcat / Nginx / Gunicorn* | 
-###### Logging/Monitoring: | *Nagios / Splunk / Prometheus /  Grafana / Lens / Datadog / AWS CloudWatch* | 
-###### Artifactory (Package Management): | *Nexus / JFrog / Helm / ECR / S3 Bucket* | 
-###### Virtualization: | *Oracle VM VirtualBox* | 
-###### Network Protocols: | *DNS / DHCP / FTP / VPN / TCP/IP / UDP / NTP / NFS / HTTP/S / IPSEC / BGP / SSL/TLS / SSH* |
-###### SDLC: | *Waterfall / Agile / DevOps* |
-
-#### *Security Tools:*
-###### Security Information & Event Management (SIEM)/Network Analytics: | *Wireshark / NetWitness Investigator / SonarQube / Splunk / CloudHealth* | 
-###### Vulnerability Management: | *Nessus* | 
-###### Penetration Testing: | *Kali Linux / Nmap* | 
-###### Identity Access Management (IAM): | *OneLogin / AuthO* |
-###### Endpoint Security/Firewalls: | *pfSense* |
-
-#### *Regulatory Standards:*
-###### | *ISO27K Series | NIST SP 800-53 | PCI DSS | COBIT | FISMA | FedRAMP | HITRUST | HIPAA* |
-
-#### *Scripting Languages:*
-###### | *Bash / PowerShell / Python / Groovy / HCL / YAML* |   
-
+###### Security Tools:	Nessus, Wireshark, Splunk, Prometheus with Grafana, Nagios
+###### DevOps & Automation:	Docker, Kubernetes, Jenkins, Ansible, Terraform, SonarQube, Git/GitHub
+###### Scripting Languages:	Bash, Python, PowerShell, JavaScript
+###### Cloud Platforms:	Amazon Web Services (AWS EC2, IAM, Lambda, S3, EBS, RDS, DynamoDB, VPC, Route 53)
+###### Operating Systems:	Windows, RedHat, CentOS, Ubuntu
+###### Project Management:	*Jira-Kanban Board, Confluence*
+###### Domain:	*Cloud Security Architecture, Infrastructure Management, Compliance Adherence, Security Monitoring, Vulnerability Management, Identity Access Management, Risk Assessments, Data Protection, Incident Response, Privacy Policies*
+###### Security and Privacy:	*Endpoint Security, Identity Access Management, Risk Assessment Management, Data Encryption and Cryptography, Log Management, Data Privacy Solutions, Security Frameworks & Compliance*
+ 
 
 ----
 ----
@@ -76,7 +50,7 @@ Highly skilled Senior Information Technology Cybersecurity Professional, pursuin
 
 ##### *Average Hrs/Wk: 40*
 
-* Execute comprehensive security risk evaluations to pinpoint system vulnerabilities across company and government networks. Develop and implement robust data-safeguarding strategies through the rigorous application of security protocols. Supervise mission-critical security infrastructure, ensuring swift incident response and performing meticulous security audits. Orchestrate monthly vulnerability scans, coordinating mitigation efforts with interdepartmental teams. Fine-tune security configurations, investigate potential security breaches and administer user access for sensitive company and government applications.
+Execute comprehensive security risk evaluations to pinpoint system vulnerabilities across company and government networks. Develop and implement robust data-safeguarding strategies through the rigorous application of security protocols. Supervise mission-critical security infrastructure, ensuring swift incident response and performing meticulous security audits. Orchestrate monthly vulnerability scans, coordinating mitigation efforts with interdepartmental teams. Fine-tune security configurations, investigate potential security breaches and administer user access for sensitive company and government applications.
 * •	Transformed security monitoring by implementing an advanced SIEM solution, enhancing threat detection and reducing response times by one-third.
 * •	Developed and deployed monitoring and alerting systems with Splunk, and Prometheus with Grafana, for proactive security management.
 * •	Conducted thorough security assessments, significantly reducing system vulnerabilities.
