@@ -80,7 +80,7 @@ Performed exhaustive security evaluations of cloud-based infrastructures crucial
 
 ##### *Average Hrs/Wk: 40*
 
-Conceptualized, deployed, and optimized cloud environments to meet the scalability and performance requirements of private and government systems. Developed automation scripts and tools to streamline provisioning, deployment, and management processes for secure cloud services. Maintained high availability and reliability of critical cloud services through meticulous management of upgrades, migrations, and maintenance procedures. Conducted thorough assessments and audits to identify and mitigate vulnerabilities, risks, and compliance issues within sensitive private and government cloud environments.
+Conceptualized, deployed, and optimized cloud environments to meet the scalability and performance requirements of private and government systems. Developed automation scripts and tools to streamline provisioning, deployment, and management processes for secure cloud services. Maintained high availability and reliability of critical cloud services through meticulous management of upgrades, migrations, and maintenance procedures. Conducted thorough assessments and audits to identify and mitigate vulnerabilities, risks, and compliance issues within sensitive cloud environments.
 * Improved cloud security by implementing advanced encryption, identity access management, and enhanced monitoring, reducing security incidents.
 * Worked with cross-functional teams to integrate security controls and optimize networking, boosting efficiency and data protection.
 * Supported incident response by performing root cause analysis and implementing preventive measures, strengthening infrastructure resilience.
