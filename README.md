@@ -49,7 +49,7 @@ Highly skilled Senior Information Technology Cybersecurity Professional, pursuin
 
 ##### *Average Hrs/Wk: 40*
 
-Execute comprehensive security risk evaluations to pinpoint system vulnerabilities across company and government networks. Develop and implement robust data-safeguarding strategies through the rigorous application of security protocols. Supervise mission-critical security infrastructure, ensuring swift incident response and performing meticulous security audits. Orchestrate monthly vulnerability scans, coordinating mitigation efforts with interdepartmental teams. Fine-tune security configurations, investigate potential security breaches and administer user access for sensitive company and government applications.
+Execute comprehensive security risk evaluations to pinpoint system vulnerabilities across private and government networks. Develop and implement robust data-safeguarding strategies through the rigorous application of security protocols. Supervise mission-critical security infrastructure, ensuring swift incident response and performing meticulous security audits. Orchestrate monthly vulnerability scans, coordinating mitigation efforts with interdepartmental teams. Fine-tune security configurations, investigate potential security breaches and administer user access for sensitive private and government applications.
 * Transformed security monitoring by implementing an advanced SIEM solution, enhancing threat detection and reducing response times by one-third.
 * Developed and deployed monitoring and alerting systems with Splunk, and Prometheus with Grafana, for proactive security management.
 * Conducted thorough security assessments, significantly reducing system vulnerabilities.
@@ -65,7 +65,7 @@ Execute comprehensive security risk evaluations to pinpoint system vulnerabiliti
 
 ##### *Average Hrs/Wk: 40*
 
-Performed exhaustive security evaluations of cloud-based infrastructures crucial to company and government operations. Formulated and implemented tailored security measures and policies to safeguard classified cloud assets, ensuring strict adherence to federal compliance frameworks. Vigilantly monitored cloud environments for security incidents, swiftly analyzing and neutralizing potential threats to minimize impact on company and government systems.
+Performed exhaustive security evaluations of cloud-based infrastructures crucial to private and government operations. Formulated and implemented tailored security measures and policies to safeguard classified cloud assets, ensuring strict adherence to federal compliance frameworks. Vigilantly monitored cloud environments for security incidents, swiftly analyzing and neutralizing potential threats to minimize impact on private and government systems.
 *	Reduced cloud security vulnerabilities by 40% through analysis and automated security policies.
 *	Led initiatives to fix major cloud misconfigurations, enhancing system integrity and data protection.
 *	Collaborated with IT teams to ensure compliance with cloud security best practices.
@@ -80,8 +80,8 @@ Performed exhaustive security evaluations of cloud-based infrastructures crucial
 
 ##### *Average Hrs/Wk: 40*
 
-Conceptualized, deployed, and optimized cloud environments to meet the scalability and performance requirements of government systems. Developed automation scripts and tools to streamline provisioning, deployment, and management processes for secure government cloud services. Maintained high availability and reliability of critical cloud services through meticulous management of upgrades, migrations, and maintenance procedures. Conducted thorough assessments and audits to identify and mitigate vulnerabilities, risks, and compliance issues within sensitive government cloud environments.
-* Improved cloud security by implementing advanced encryption, identity and access management, and enhanced monitoring, reducing security incidents.
+Conceptualized, deployed, and optimized cloud environments to meet the scalability and performance requirements of private and government systems. Developed automation scripts and tools to streamline provisioning, deployment, and management processes for secure cloud services. Maintained high availability and reliability of critical cloud services through meticulous management of upgrades, migrations, and maintenance procedures. Conducted thorough assessments and audits to identify and mitigate vulnerabilities, risks, and compliance issues within sensitive private and government cloud environments.
+* Improved cloud security by implementing advanced encryption, identity access management, and enhanced monitoring, reducing security incidents.
 * Worked with cross-functional teams to integrate security controls and optimize networking, boosting efficiency and data protection.
 * Supported incident response by performing root cause analysis and implementing preventive measures, strengthening infrastructure resilience.
   
