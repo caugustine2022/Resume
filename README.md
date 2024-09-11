@@ -13,7 +13,7 @@
 ### **Professional Summary**
 ----
 
-Highly skilled Senior Information Technology Cybersecurity Professional, pursuing a Ph.D. in Information Technology, bringing innovative ideas to cloud security, infrastructure management, and compliance. Proven track record of enhancing security postures through risk assessments, vulnerability management, and implementation of robust security measures. Adept at leveraging advanced tools like Splunk, Prometheus with Grafana, and AWS services to optimize security monitoring and incident response. Demonstrates strong leadership in guiding cross-functional teams and managing complex security projects. Combines academic expertise with hands-on experience, offering a unique blend of theoretical depth and practical expertise to tackle evolving cybersecurity challenges in company and government environments.          
+Highly skilled Senior Information Technology Cybersecurity Professional, pursuing a Ph.D. in Information Technology, bringing innovative ideas to cloud security, infrastructure management, and compliance. Proven track record of enhancing security postures through risk assessments, vulnerability management, and implementation of robust security measures. Adept at leveraging advanced tools like Splunk, Prometheus with Grafana, and AWS services to optimize security monitoring and incident response. Demonstrates strong leadership in guiding cross-functional teams and managing complex security projects. Combines academic expertise with hands-on experience, offering a unique blend of theoretical depth and practical expertise to tackle evolving cybersecurity challenges in private and government environments.          
 
 
 ----
