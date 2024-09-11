@@ -43,9 +43,11 @@ Highly skilled Senior Information Technology Cybersecurity Professional, pursuin
 
 ### DataService Group INC. | Bear, DE 
 
+##### *April 2017 - Present*
+
 #### Senior Information Security and Monitoring Analyst //*(Contract) - Remote*
 
-##### *April 2021 - Present*
+##### *(April 2021 - Present)*
 
 ##### *Average Hrs/Wk: 40*
 
@@ -57,13 +59,10 @@ Execute comprehensive security risk evaluations to pinpoint system vulnerabiliti
 * Stayed updated on emerging threats, providing strategic recommendations to strengthen security.
 
 
-### DataService Group INC. | Bear, DE 
-
 #### Associate Cloud Security Analyst //*(Contract) - Hybrid-Remote*
 
-##### *May 2019 - March 2021*
+##### *(May 2019 - March 2021)*
 
-##### *Average Hrs/Wk: 40*
 
 Performed exhaustive security evaluations of cloud-based infrastructures crucial to private and government operations. Formulated and implemented tailored security measures and policies to safeguard classified cloud assets, ensuring strict adherence to federal compliance frameworks. Vigilantly monitored cloud environments for security incidents, swiftly analyzing and neutralizing potential threats to minimize impact on private and government systems.
 *	Reduced cloud security vulnerabilities by 40% through analysis and automated security policies.
@@ -72,13 +71,10 @@ Performed exhaustive security evaluations of cloud-based infrastructures crucial
 *	Coordinated complex security projects across departments, ensuring timely completion and adherence to government standards.
 
 
-### DataService Group INC. | Bear, DE  
-
 #### Cloud Infrastructure Engineer //*(Contract) - Remote*
 
-##### *May 2017 - April 2019*
+##### *(May 2017 - April 2019)*
 
-##### *Average Hrs/Wk: 40*
 
 Conceptualized, deployed, and optimized cloud environments to meet the scalability and performance requirements of private and government systems. Developed automation scripts and tools to streamline provisioning, deployment, and management processes for secure cloud services. Maintained high availability and reliability of critical cloud services through meticulous management of upgrades, migrations, and maintenance procedures. Conducted thorough assessments and audits to identify and mitigate vulnerabilities, risks, and compliance issues within sensitive cloud environments.
 * Improved cloud security by implementing advanced encryption, identity access management, and enhanced monitoring, reducing security incidents.
