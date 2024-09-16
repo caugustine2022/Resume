@@ -145,10 +145,10 @@ Evaluated and mitigated information security risks by conducting thorough analys
 ----
 
 *(In Progress)*
-:  **(ISC)2 (CISSP)** – Certified Information Systems Security Professional 
+:  **(ISC)2** – Certified Information Systems Security Professional (CISSP) 
 
 MARCH 2021
-:  **ISACA®’s (CDPSE)** – Certified Data Privacy Solutions Engineer
+:  **ISACA®’s** – Certified Data Privacy Solutions Engineer (CDPSE)
 
 
 ----
