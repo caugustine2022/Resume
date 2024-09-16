@@ -82,7 +82,7 @@ Conceptualized, deployed, and optimized cloud environments to meet private and g
 
 #### Senior Lead Certified QA Specialist (Surgical Instruments) //*(Part-time) - Hybrid*
  
-##### *March 2014 - Present*
+##### *March 2008 - Present*
 
 Supervise the quality assurance processes for surgical instruments, ensuring they adhere to regulatory standards and are safe for use. Perform comprehensive inspections and testing to detect defects or issues. Implement process improvements to boost the quality and efficiency of QA procedures and maintain detailed records of all inspections, tests, and QA activities.
 * Collaborated with cross-functional teams, including risk management and safety, quality control and assurance, instrument vendors, and repairs, to resolve quality issues and implement solutions.
