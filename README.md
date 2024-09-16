@@ -13,7 +13,7 @@
 ### **Professional Summary**
 ----
 
-Highly skilled Senior Information Technology Cybersecurity Professional, pursuing a Ph.D. in Information Technology, bringing innovative ideas to cloud security, infrastructure management, and compliance. Proven track record of enhancing security postures through risk assessments, vulnerability management, and implementation of robust security measures. Adept at leveraging advanced tools like Splunk, Prometheus with Grafana, and AWS services to optimize security monitoring and incident response. Demonstrates strong leadership in guiding cross-functional teams and managing complex security projects. Combines academic expertise with hands-on experience, offering a unique blend of theoretical depth and practical expertise to tackle evolving cybersecurity challenges in private and government environments.          
+Highly skilled Senior Information Technology Cybersecurity Professional pursuing a Ph.D. in Information Technology, bringing innovative ideas to cloud security, infrastructure management, and compliance. Proven track record of enhancing security postures through risk assessments, vulnerability management, and implementation of robust security measures. Adept at leveraging advanced tools like Splunk, Prometheus with Grafana, and AWS services to optimize security monitoring and incident response. Demonstrates strong leadership in guiding cross-functional teams and managing complex security projects. Combines academic expertise with hands-on experience, offering a unique blend of theoretical depth and practical knowledge to tackle evolving cybersecurity challenges in private and government environments.          
 
 
 ----
@@ -49,9 +49,9 @@ Highly skilled Senior Information Technology Cybersecurity Professional, pursuin
 
 ##### *(April 2021 - Present)*
 
-Execute comprehensive security risk evaluations to pinpoint system vulnerabilities across private and government networks. Develop and implement robust data-safeguarding strategies through the rigorous application of security protocols. Supervise mission-critical security infrastructure, ensuring swift incident response and performing meticulous security audits. Orchestrate monthly vulnerability scans, coordinating mitigation efforts with interdepartmental teams. Fine-tune security configurations, investigate potential security breaches and administer user access for sensitive private and government applications.
+Execute comprehensive security risk evaluations to pinpoint system vulnerabilities across private and government networks. Develop and implement robust data-safeguarding strategies through the rigorous application of security protocols. Supervise mission-critical security infrastructure, ensuring swift incident response and performing meticulous security audits. Orchestrate monthly vulnerability scans, coordinating mitigation efforts with interdepartmental teams. Fine-tune security configurations, investigate potential security breaches, and administer user access for sensitive private and government applications.
 * Transformed security monitoring by implementing an advanced SIEM solution, enhancing threat detection and reducing response times by one-third.
-* Developed and deployed monitoring and alerting systems with Splunk, and Prometheus with Grafana, for proactive security management.
+* Developed and deployed monitoring and alerting systems with Splunk and Prometheus with Grafana for proactive security management.
 * Conducted thorough security assessments, significantly reducing system vulnerabilities.
 * Led cross-functional teams to tackle complex security challenges and implement best practices.
 * Stayed updated on emerging threats, providing strategic recommendations to strengthen security.
@@ -72,11 +72,23 @@ Performed exhaustive security evaluations of cloud-based infrastructures crucial
 
 ##### *(May 2017 - April 2019)*
 
-Conceptualized, deployed, and optimized cloud environments to meet the scalability and performance requirements of private and government systems. Developed automation scripts and tools to streamline provisioning, deployment, and management processes for secure cloud services. Maintained high availability and reliability of critical cloud services through meticulous management of upgrades, migrations, and maintenance procedures. Conducted thorough assessments and audits to identify and mitigate vulnerabilities, risks, and compliance issues within sensitive cloud environments.
+Conceptualized, deployed, and optimized cloud environments to meet private and government systems' scalability and performance requirements. Developed automation scripts and tools to streamline provisioning, deployment, and management processes for secure cloud services. Maintained high availability and reliability of critical cloud services through meticulous management of upgrades, migrations, and maintenance procedures. Conducted thorough assessments and audits to identify and mitigate vulnerabilities, risks, and compliance issues within sensitive cloud environments.
 * Improved cloud security by implementing advanced encryption, identity access management, and enhanced monitoring, reducing security incidents.
 * Worked with cross-functional teams to integrate security controls and optimize networking, boosting efficiency and data protection.
 * Supported incident response by performing root cause analysis and implementing preventive measures, strengthening infrastructure resilience.
-  
+
+
+### Brigham and Women’s Hospital Inc. | Boston, MA.
+
+#### Senior Lead Certified QA Specialist (Surgical Instruments) //*(Part-time) - Hybrid*
+ 
+##### *March 2014 - Present*
+
+Supervise the quality assurance processes for surgical instruments, ensuring they adhere to regulatory standards and are safe for use. Perform comprehensive inspections and testing to detect defects or issues. Implement process improvements to boost the quality and efficiency of QA procedures and maintain detailed records of all inspections, tests, and QA activities.
+* Collaborated with cross-functional teams, including risk management and safety, quality control and assurance, instrument vendors, and repairs, to resolve quality issues and implement solutions.
+* Ensured adherence to industry standards and regulations from organizations such as the Department of Health, the Joint Commission, the Occupational Safety and Health Administration, and the Food and Drug Administration.
+* Trained and mentored junior QA specialists on handling and inspection techniques, improving team capabilities, and promoting continuous improvement.  
+
 
 ### iCare Medical Systems | Texas City, TX
 
@@ -84,20 +96,10 @@ Conceptualized, deployed, and optimized cloud environments to meet the scalabili
 
 ##### *April 2016 - March 2018*
 
-Fortified cloud security by implementing robust encryption and data protection controls, collaborating closely with DevOps teams to seamlessly integrate security measures into CI/CD pipelines. Maintained and updated cloud security architecture frameworks to ensure ongoing regulatory compliance. Implemented comprehensive monitoring solutions, including Nagios, and Prometheus with Grafana, for real-time incident detection and response. Collaborated on secure configuration and access control mechanisms for cloud infrastructure and partnered with incident response teams to address and mitigate security breaches.
+Fortified cloud security by implementing robust encryption and data protection controls, collaborating closely with DevOps teams to integrate security measures into CI/CD pipelines seamlessly. Maintained and updated cloud security architecture frameworks to ensure ongoing regulatory compliance. Implemented comprehensive monitoring solutions, including Nagios and Prometheus with Grafana, for real-time incident detection and response. Collaborated on secure configuration and access control mechanisms for cloud infrastructure and partnered with incident response teams to address and mitigate security breaches.
 * Developed automated CI/CD pipelines with Jenkins and GitLab, reducing deployment times and minimizing issues.
 * Enhanced server stability and performance, achieving near-perfect uptime.
 * Reduced manual server management by implementing Ansible playbooks for LAMP Stacks.
-
-
-### test IO | San Francisco, CA.
-
-#### Software Tester //*(Freelance)*
- 
-##### *June 2014 - May 2016*
-
-* Identified, documented, and reported bugs, errors, interoperability flaws, security vulnerabilities assessment lifecycle, and other security risks.
-* Tested product’s functionality, performance, reliability, and stability, resulting in a 90% success rate.
 
 
 ### Tar Technologies LLC. | Washington, DC
@@ -120,19 +122,19 @@ Evaluated and mitigated information security risks by conducting thorough analys
 ----
 
 *(In Progress)*
-:   **Doctor of Philosophy (Ph.D.) Degree, Major: Information Technology; Information Security Emphasis**; University of the Cumberlands - Williamsburg, KY
+:   **Doctor of Philosophy (Ph.D.) Degree; Information Technology**; University of the Cumberlands - Williamsburg, KY
 
 2019-2020
-:   **Master of Science (M.S.) Degree, Major: Information Systems Security**; University of the Cumberlands - Williamsburg, KY
+:   **Master of Science (M.S.) Degree; Information Systems Security**; University of the Cumberlands - Williamsburg, KY
     
 2014-2016
-:   **Master of Science (M.S.) Degree, Major: Health and Medical Informatics**; Brandeis University - Waltham, MA
+:   **Master of Science (M.S.) Degree; Health and Medical Informatics**; Brandeis University - Waltham, MA
     
 2012-2014
-:   **Bachelor of Science (B.S.) Degree, Major: Information Technology**; University of Massachusetts Lowell - Lowell, MA
+:   **Bachelor of Science (B.S.) Degree; Information Technology**; University of Massachusetts Lowell - Lowell, MA
     
 1998-2001
-:   **Bachelor of Science (B.S.) Degree, Major: Electrical and Electronic Engineering; Electronics/Telecommunications and Computer Engineering Option**; National Polytechnic University Institute - Bamenda, CM
+:   **Bachelor of Science (B.S.) Degree; Electrical and Computer Engineering**; National Polytechnic University Institute - Bamenda, CM
 
 
 ----
@@ -143,7 +145,6 @@ Evaluated and mitigated information security risks by conducting thorough analys
 ----
 
 : **(ISC)2 (CISSP)** – Certified Information Systems Security Professional (In Progress)
-
 
 : **ISACA®’s (CDPSE)** – Certified Data Privacy Solutions Engineer
 
