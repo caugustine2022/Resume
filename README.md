@@ -45,11 +45,11 @@ Highly skilled Senior Information Technology Cybersecurity Professional pursuing
 
 ##### *April 2017 - Present*
 
-#### Senior Information Security and Monitoring Analyst //*(Contract) - Remote*
+#### Senior Information Security & Monitoring Analyst //*(Contract) - Remote*
 
 ##### *(April 2021 - Present)*
 
-Execute comprehensive security risk evaluations to pinpoint system vulnerabilities across private and government networks. Develop and implement robust data-safeguarding strategies through the rigorous application of security protocols. Supervise mission-critical security infrastructure, ensuring swift incident response and performing meticulous security audits. Orchestrate monthly vulnerability scans, coordinating mitigation efforts with interdepartmental teams. Fine-tune security configurations, investigate potential security breaches, and administer user access for sensitive private and government applications.
+Execute comprehensive security risk evaluations to pinpoint system vulnerabilities across private and government networks. Develop and implement robust data-safeguarding strategies through the rigorous application of security protocols. Supervise mission-critical security infrastructure, ensuring swift incident response and performing meticulous security audits. Orchestrate monthly vulnerability scans, coordinating mitigation efforts with interdepartmental teams. Fine-tune security configurations, investigate potential security breaches and administer user access for sensitive private and government applications.
 * Transformed security monitoring by implementing an advanced SIEM solution, enhancing threat detection and reducing response times by one-third.
 * Developed and deployed monitoring and alerting systems with Splunk and Prometheus with Grafana for proactive security management.
 * Conducted thorough security assessments, significantly reducing system vulnerabilities.
@@ -72,7 +72,7 @@ Performed exhaustive security evaluations of cloud-based infrastructures crucial
 
 ##### *(May 2017 - April 2019)*
 
-Conceptualized, deployed, and optimized cloud environments to meet private and government systems' scalability and performance requirements. Developed automation scripts and tools to streamline provisioning, deployment, and management processes for secure cloud services. Maintained high availability and reliability of critical cloud services through meticulous management of upgrades, migrations, and maintenance procedures. Conducted thorough assessments and audits to identify and mitigate vulnerabilities, risks, and compliance issues within sensitive cloud environments.
+Conceptualized, deployed, and optimized cloud environments to meet the scalability and performance requirements of private and government systems. Developed automation scripts and tools to streamline provisioning, deployment, and management processes for secure cloud services. Maintained high availability and reliability of critical cloud services through meticulous management of upgrades, migrations, and maintenance procedures. Conducted thorough assessments and audits to identify and mitigate vulnerabilities, risks, and compliance issues within sensitive cloud environments.
 * Improved cloud security by implementing advanced encryption, identity access management, and enhanced monitoring, reducing security incidents.
 * Worked with cross-functional teams to integrate security controls and optimize networking, boosting efficiency and data protection.
 * Supported incident response by performing root cause analysis and implementing preventive measures, strengthening infrastructure resilience.
@@ -80,7 +80,7 @@ Conceptualized, deployed, and optimized cloud environments to meet private and g
 
 ### Brigham and Women’s Hospital Inc. | Boston, MA.
 
-#### Senior Lead Certified QA Specialist (Surgical Instruments) //*(Part-time) - Hybrid*
+#### Senior Lead Certified QA Specialist, Surgical Instrumentation //*(Part-time) - Hybrid*
  
 ##### *March 2008 - Present*
 
@@ -92,11 +92,11 @@ Supervise the quality assurance processes for surgical instruments, ensuring the
 
 ### iCare Medical Systems | Texas City, TX
 
-#### Cloud and Linux Operations Engineer //*(Contract) - Hybrid-Remote*
+#### Cloud & Linux Operations Engineer //*(Contract) - Hybrid-Remote*
 
 ##### *April 2016 - March 2018*
 
-Fortified cloud security by implementing robust encryption and data protection controls, collaborating closely with DevOps teams to integrate security measures into CI/CD pipelines seamlessly. Maintained and updated cloud security architecture frameworks to ensure ongoing regulatory compliance. Implemented comprehensive monitoring solutions, including Nagios and Prometheus with Grafana, for real-time incident detection and response. Collaborated on secure configuration and access control mechanisms for cloud infrastructure and partnered with incident response teams to address and mitigate security breaches.
+Fortified cloud security by implementing robust encryption and data protection controls, collaborating closely with DevOps teams to seamlessly integrate security measures into CI/CD pipelines. Maintained and updated cloud security architecture frameworks to ensure ongoing regulatory compliance. Implemented comprehensive monitoring solutions, including Nagios and Prometheus with Grafana, for real-time incident detection and response. Collaborated on secure configuration and access control mechanisms for cloud infrastructure and partnered with incident response teams to address and mitigate security breaches.
 * Developed automated CI/CD pipelines with Jenkins and GitLab, reducing deployment times and minimizing issues.
 * Enhanced server stability and performance, achieving near-perfect uptime.
 * Reduced manual server management by implementing Ansible playbooks for LAMP Stacks.
@@ -104,7 +104,7 @@ Fortified cloud security by implementing robust encryption and data protection c
 
 ### Tar Technologies LLC. | Washington, DC
 
-#### Information Security and Privacy Risk Analyst //*(Contract) - Remote*
+#### Information Security & Privacy Risk Analyst //*(Contract) - Remote*
 
 ##### *April 2014 - March 2016*
 
