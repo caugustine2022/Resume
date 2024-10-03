@@ -5,7 +5,7 @@
 ----
 ----
 
-#### *👉 💥 | Information Technology & Cybersecurity Professional ⚡ Ph.D. Researcher in Information Technology | …✍️*
+#### *👉 💥 | Information Technology & Cybersecurity Professional ⚡ Ph.D. Candidate in Information Technology | …✍️*
 ----
 ----
 
