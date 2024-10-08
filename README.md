@@ -134,7 +134,7 @@ Evaluated and mitigated information security risks by conducting thorough analys
 :   **Bachelor of Science (B.S.) Degree; Information Technology**; University of Massachusetts Lowell - Lowell, MA
     
 1998-2001
-:   **Bachelor of Science (B.S.) Degree; Electrical and Computer Engineering**; National Polytechnic University Institute - Bamenda, CM
+:   **Bachelor of Science (B.S.) Degree; Electrical and Electronic Engineering**; National Polytechnic University Institute - Bamenda, CM
 
 
 ----
