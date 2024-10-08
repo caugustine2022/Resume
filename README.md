@@ -45,7 +45,7 @@ Highly skilled Senior Information Technology and Cybersecurity Professional purs
 
 ##### *April 2017 - Present*
 
-#### Senior Information Security & Monitoring Analyst //*(Contract) - Remote*
+#### Senior Security Monitoring Analyst //*(Contract) - Remote*
 
 ##### *(April 2021 - Present)*
 
@@ -104,7 +104,7 @@ Fortified cloud security by implementing robust encryption and data protection c
 
 ### Tar Technologies LLC. | Washington, DC
 
-#### Information Security & Privacy Risk Analyst //*(Contract) - Remote*
+#### Data Privacy & Security Risk Analyst //*(Contract) - Remote*
 
 ##### *April 2014 - March 2016*
 
