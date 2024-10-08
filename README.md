@@ -13,7 +13,7 @@
 ### **Professional Summary**
 ----
 
-Highly skilled Senior Information Technology Cybersecurity Professional pursuing a Ph.D. in Information Technology, bringing innovative ideas to cloud security, infrastructure management, and compliance. Proven track record of enhancing security postures through risk assessments, vulnerability management, and implementation of robust security measures. Adept at leveraging advanced tools like Splunk, Prometheus with Grafana, and AWS services to optimize security monitoring and incident response. Demonstrates strong leadership in guiding cross-functional teams and managing complex security projects. Combines academic expertise with hands-on experience, offering a unique blend of theoretical depth and practical knowledge to tackle evolving cybersecurity challenges in private and government environments.          
+Highly skilled Senior Information Technology and Cybersecurity Professional pursuing a Ph.D. in Information Technology, bringing innovative ideas to cloud security, infrastructure management, and compliance. Proven track record of enhancing security postures through risk assessments, vulnerability management, and implementation of robust security measures. Adept at leveraging advanced tools like Splunk, Prometheus with Grafana, and AWS services to optimize security monitoring and incident response. Demonstrates strong leadership in guiding cross-functional teams and managing complex security projects. Combines academic expertise with hands-on experience, offering a unique blend of theoretical depth and practical knowledge to tackle evolving cybersecurity challenges in private and government environments.          
 
 
 ----
@@ -72,7 +72,7 @@ Performed exhaustive security evaluations of cloud-based infrastructures crucial
 
 ##### *(May 2017 - April 2019)*
 
-Conceptualized, deployed, and optimized cloud environments to meet the scalability and performance requirements of private and government systems. Developed automation scripts and tools to streamline provisioning, deployment, and management processes for secure cloud services. Maintained high availability and reliability of critical cloud services through meticulous management of upgrades, migrations, and maintenance procedures. Conducted thorough assessments and audits to identify and mitigate vulnerabilities, risks, and compliance issues within sensitive cloud environments.
+Conceptualized, deployed, and optimized cloud environments to meet private and government systems' scalability and performance requirements. Developed automation scripts and tools to streamline provisioning, deployment, and management processes for secure cloud services. Maintained high availability and reliability of critical cloud services through meticulous management of upgrades, migrations, and maintenance procedures. Conducted thorough assessments and audits to identify and mitigate vulnerabilities, risks, and compliance issues within sensitive cloud environments.
 * Improved cloud security by implementing advanced encryption, identity access management, and enhanced monitoring, reducing security incidents.
 * Worked with cross-functional teams to integrate security controls and optimize networking, boosting efficiency and data protection.
 * Supported incident response by performing root cause analysis and implementing preventive measures, strengthening infrastructure resilience.
@@ -92,7 +92,7 @@ Supervise the quality assurance processes for surgical instruments, ensuring the
 
 ### iCare Medical Systems | Texas City, TX
 
-#### Cloud & Linux Operations Engineer //*(Contract) - Hybrid-Remote*
+#### Cloud Systems Operations Engineer //*(Contract) - Hybrid-Remote*
 
 ##### *April 2016 - March 2018*
 
