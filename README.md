@@ -49,7 +49,7 @@ Highly skilled Senior Information Technology and Cybersecurity Professional purs
 
 ##### *(April 2021 - Present)*
 
-Execute comprehensive security risk evaluations to pinpoint system vulnerabilities across private and government networks. Develop and implement robust data-safeguarding strategies through the rigorous application of security protocols. Supervise mission-critical security infrastructure, ensuring swift incident response and performing meticulous security audits. Orchestrate monthly vulnerability scans, coordinating mitigation efforts with interdepartmental teams. Fine-tune security configurations, investigate potential security breaches and administer user access for sensitive private and government applications.
+Execute comprehensive security risk evaluations to pinpoint system vulnerabilities across private and government networks. Develop and implement robust data-safeguarding strategies through the rigorous application of security protocols. Supervise mission-critical security infrastructure, ensuring swift incident response and performing meticulous security audits. Orchestrate monthly vulnerability scans, coordinating mitigation efforts with interdepartmental teams. Fine-tune security configurations, investigate potential security breaches, and administer user access for sensitive private and government applications.
 * Transformed security monitoring by implementing an advanced SIEM solution, enhancing threat detection and reducing response times by one-third.
 * Developed and deployed monitoring and alerting systems with Splunk and Prometheus with Grafana for proactive security management.
 * Conducted thorough security assessments, significantly reducing system vulnerabilities.
@@ -92,14 +92,15 @@ Supervise the quality assurance processes for surgical instruments, ensuring the
 
 ### iCare Medical Systems | Texas City, TX
 
-#### Cloud Systems Operations Engineer //*(Contract) - Hybrid-Remote*
+#### Systems Operations Analyst //*(Contract) - Hybrid-Remote*
 
 ##### *April 2016 - March 2018*
 
-Fortified cloud security by implementing robust encryption and data protection controls, collaborating closely with DevOps teams to seamlessly integrate security measures into CI/CD pipelines. Maintained and updated cloud security architecture frameworks to ensure ongoing regulatory compliance. Implemented comprehensive monitoring solutions, including Nagios and Prometheus with Grafana, for real-time incident detection and response. Collaborated on secure configuration and access control mechanisms for cloud infrastructure and partnered with incident response teams to address and mitigate security breaches.
-* Developed automated CI/CD pipelines with Jenkins and GitLab, reducing deployment times and minimizing issues.
-* Enhanced server stability and performance, achieving near-perfect uptime.
-* Reduced manual server management by implementing Ansible playbooks for LAMP Stacks.
+Strengthened system security by implementing robust encryption and data protection controls across hybrid environments, collaborating with IT and operations teams to integrate security measures into existing workflows. Maintained security architecture frameworks and ensured regulatory compliance for on-premises and cloud systems. Implemented monitoring solutions (Nagios, Prometheus with Grafana) to enable real-time incident detection and response, improving system reliability.
+* Developed and optimized CI/CD pipelines using Jenkins and GitLab, reducing deployment times and improving system update efficiency.
+* Enhanced server stability and performance, achieving near-perfect uptime for critical systems.
+* Automated server management tasks by implementing Ansible playbooks, streamlining the configuration and deployment of LAMP stacks, and reducing manual intervention.
+
 
 
 ### Tar Technologies LLC. | Washington, DC
