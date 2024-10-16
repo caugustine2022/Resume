@@ -45,7 +45,7 @@ Highly skilled Senior Information Technology and Cybersecurity Professional purs
 
 ##### *April 2017 - Present*
 
-#### Senior Security Monitoring Analyst //*(Contract) - Remote*
+#### Security Monitoring Analyst //*(Contract) - Remote*
 
 ##### *(April 2021 - Present)*
 
