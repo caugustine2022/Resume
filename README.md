@@ -41,15 +41,13 @@ Highly skilled Senior Information Technology and Cybersecurity Professional purs
 ----
 ----
 
-### DataService Group INC. | Bear, DE 
+### Tar Technologies LLC. | Washington, DC 
 
-##### *April 2017 - Present*
+##### *April 2021 - Present*
 
-#### Security Monitoring Analyst //*(Contract) - Remote*
+#### Senior Security Monitoring Analyst //*(Contract) - Remote*
 
-##### *(April 2021 - Present)*
-
-Execute comprehensive security risk evaluations to pinpoint system vulnerabilities across private and government networks. Develop and implement robust data-safeguarding strategies through the rigorous application of security protocols. Supervise mission-critical security infrastructure, ensuring swift incident response and performing meticulous security audits. Orchestrate monthly vulnerability scans, coordinating mitigation efforts with interdepartmental teams. Fine-tune security configurations, investigate potential security breaches, and administer user access for sensitive private and government applications.
+Execute comprehensive security risk evaluations to pinpoint system vulnerabilities across private and government networks. Develop and implement robust data-safeguarding strategies through the rigorous application of security protocols. Supervise mission-critical security infrastructure, ensuring swift incident response and performing meticulous security audits. Orchestrate monthly vulnerability scans, coordinating mitigation efforts with interdepartmental teams. Fine-tune security configurations, investigate potential security breaches and administer user access for sensitive private and government applications.
 * Transformed security monitoring by implementing an advanced SIEM solution, enhancing threat detection and reducing response times by one-third.
 * Developed and deployed monitoring and alerting systems with Splunk and Prometheus with Grafana for proactive security management.
 * Conducted thorough security assessments, significantly reducing system vulnerabilities.
@@ -57,30 +55,9 @@ Execute comprehensive security risk evaluations to pinpoint system vulnerabiliti
 * Stayed updated on emerging threats, providing strategic recommendations to strengthen security.
 
 
-#### Associate Cloud Security Analyst //*(Contract) - Hybrid-Remote*
-
-##### *(May 2019 - March 2021)*
-
-Performed exhaustive security evaluations of cloud-based infrastructures crucial to private and government operations. Formulated and implemented tailored security measures and policies to safeguard classified cloud assets, ensuring strict adherence to federal compliance frameworks. Vigilantly monitored cloud environments for security incidents, swiftly analyzing and neutralizing potential threats to minimize impact on private and government systems.
-*	Reduced cloud security vulnerabilities by 40% through analysis and automated security policies.
-*	Led initiatives to fix major cloud misconfigurations, enhancing system integrity and data protection.
-*	Collaborated with IT teams to ensure compliance with cloud security best practices.
-*	Coordinated complex security projects across departments, ensuring timely completion and adherence to government standards.
-
-
-#### Cloud Infrastructure Engineer //*(Contract) - Remote*
-
-##### *(May 2017 - April 2019)*
-
-Conceptualized, deployed, and optimized cloud environments to meet private and government systems' scalability and performance requirements. Developed automation scripts and tools to streamline provisioning, deployment, and management processes for secure cloud services. Maintained high availability and reliability of critical cloud services through meticulous management of upgrades, migrations, and maintenance procedures. Conducted thorough assessments and audits to identify and mitigate vulnerabilities, risks, and compliance issues within sensitive cloud environments.
-* Improved cloud security by implementing advanced encryption, identity access management, and enhanced monitoring, reducing security incidents.
-* Worked with cross-functional teams to integrate security controls and optimize networking, boosting efficiency and data protection.
-* Supported incident response by performing root cause analysis and implementing preventive measures, strengthening infrastructure resilience.
-
-
 ### Brigham and Women’s Hospital Inc. | Boston, MA.
 
-#### Senior Lead Certified QA Specialist, Surgical Instrumentation //*(Part-time) - Hybrid*
+#### Senior Lead Certified QA Specialist, Surgical Instrumentation //*(Seasonal) - Onsite*
  
 ##### *March 2008 - Present*
 
@@ -90,29 +67,53 @@ Supervise the quality assurance processes for surgical instruments, ensuring the
 * Trained and mentored junior QA specialists on handling and inspection techniques, improving team capabilities, and promoting continuous improvement.  
 
 
-### iCare Medical Systems | Texas City, TX
+### DataService Group INC. | Bear, DE 
 
-#### Systems Operations Analyst //*(Contract) - Hybrid-Remote*
+#### Associate Cloud Security Analyst //*(Contract) - Remote*
 
-##### *April 2016 - March 2018*
+##### *(May 2019 - April 2021)*
 
-Strengthened system security by implementing robust encryption and data protection controls across hybrid environments, collaborating with IT and operations teams to integrate security measures into existing workflows. Maintained security architecture frameworks and ensured regulatory compliance for on-premises and cloud systems. Implemented monitoring solutions (Nagios, Prometheus with Grafana) to enable real-time incident detection and response, improving system reliability.
-* Developed and optimized CI/CD pipelines using Jenkins and GitLab, reducing deployment times and improving system update efficiency.
-* Enhanced server stability and performance, achieving near-perfect uptime for critical systems.
-* Automated server management tasks by implementing Ansible playbooks, streamlining the configuration and deployment of LAMP stacks, and reducing manual intervention.
-
+Performed exhaustive security evaluations of cloud-based infrastructures crucial to private and government operations. Formulated and implemented tailored security measures and policies to safeguard classified cloud assets, ensuring strict adherence to federal compliance frameworks. Vigilantly monitored cloud environments for security incidents, swiftly analyzing and neutralizing potential threats to minimize impact on private and government systems.
+*	Reduced cloud security vulnerabilities by 40% through analysis and automated security policies.
+*	Led initiatives to fix major cloud misconfigurations, enhancing system integrity and data protection.
+*	Collaborated with IT teams to ensure compliance with cloud security best practices.
+*	Coordinated complex security projects across departments, ensuring timely completion and adherence to government standards.
 
 
 ### Tar Technologies LLC. | Washington, DC
 
 #### Data Privacy & Security Risk Analyst //*(Contract) - Remote*
 
-##### *April 2014 - March 2016*
+##### *May 2016 - April 2019*
 
 Evaluated and mitigated information security risks by conducting thorough analyses of vulnerabilities and potential threats across organizational systems. Developed comprehensive privacy policies and training programs to ensure compliance with stringent data protection regulations. Managed operational risks associated with sensitive information assets, including oversight of data agreements and privacy impact assessments. Collaborated with various departments to evaluate business operations and implement appropriate privacy and security measures.
 * Improved incident response by creating a comprehensive plan and conducting regular exercises, reducing response times.
 * Streamlined handling procedures to minimize damage and enhance team coordination.
 * Adapted swiftly to new privacy regulations, developing actionable policies and procedures.
+
+
+### Widelink Technologies | Williamstown, NJ
+
+#### Cloud Infrastructure Engineer //*(Contract) - Remote*
+
+##### *(May 2014 - April 2016)*
+
+Conceptualized, deployed, and optimized cloud environments to meet the scalability and performance requirements of private and government systems. Developed automation scripts and tools to streamline provisioning, deployment, and management processes for secure cloud services. Maintained high availability and reliability of critical cloud services through meticulous management of upgrades, migrations, and maintenance procedures. Conducted thorough assessments and audits to identify and mitigate vulnerabilities, risks, and compliance issues within sensitive cloud environments.
+* Improved cloud security by implementing advanced encryption, identity access management, and enhanced monitoring, reducing security incidents.
+* Worked with cross-functional teams to integrate security controls and optimize networking, boosting efficiency and data protection.
+* Supported incident response by performing root cause analysis and implementing preventive measures, strengthening infrastructure resilience.
+
+
+### Newfield Wireless | Berkeley, CA
+
+#### Systems Operations Analyst //*(Contract) - Remote*
+
+##### *May 2012 - April 2014*
+
+Strengthened system security by implementing robust encryption and data protection controls across hybrid environments, collaborating with IT and operations teams to integrate security measures into existing workflows. Maintained security architecture frameworks and ensured regulatory compliance for on-premises and cloud systems. Implemented monitoring solutions (Nagios, Prometheus with Grafana) to enable real-time incident detection and response, improving system reliability.
+* Implemented updates, patches, and security measures to protect system integrity.
+* Enhanced server stability and performance, achieving near-perfect uptime for critical systems.
+* Automated server management tasks by implementing Ansible playbooks and documented configurations and operational procedures to support team efficiency and compliance.
 
 
 ----
