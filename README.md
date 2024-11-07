@@ -1,6 +1,6 @@
 ----
 ----
-# Augustine Ngen, **MSISS, CDPSE** 
+# Augustine Ngen, **MSHMI, MSISS, CDPSE** 
 
 ----
 ----
@@ -94,14 +94,15 @@ Evaluated and mitigated information security risks by conducting thorough analys
 
 ### Widelink Technologies | Williamstown, NJ
 
-#### Cloud Infrastructure Engineer //*(Contract) - Remote*
+#### Cloud Infrastructure & DevOps Engineer //*(Contract) - Remote*
 
 ##### *(May 2014 - April 2016)*
 
-Conceptualized, deployed, and optimized cloud environments to meet the scalability and performance requirements of private and government systems. Developed automation scripts and tools to streamline provisioning, deployment, and management processes for secure cloud services. Maintained high availability and reliability of critical cloud services through meticulous management of upgrades, migrations, and maintenance procedures. Conducted thorough assessments and audits to identify and mitigate vulnerabilities, risks, and compliance issues within sensitive cloud environments.
-* Improved cloud security by implementing advanced encryption, identity access management, and enhanced monitoring, reducing security incidents.
-* Worked with cross-functional teams to integrate security controls and optimize networking, boosting efficiency and data protection.
-* Supported incident response by performing root cause analysis and implementing preventive measures, strengthening infrastructure resilience.
+Contributed, to cloud infrastructure projects through design, deployment, and optimization of cloud environments for scalability and performance. Developed and applied automation scripts and tools to streamline provisioning, deployment, and management processes. Ensured high availability and reliability of cloud services through meticulous management of upgrades, migrations, and maintenance. Conducted thorough assessments and audits to identify and mitigate vulnerabilities, risks, and compliance issues within cloud environments.
+* Designed and maintained scalable AWS infrastructure for high-availability applications, ensuring robust performance.
+* Automated infrastructure provisioning, configuration, and deployment using IaC tools (Terraform, CloudFormation, Ansible), enhancing efficiency and accuracy.
+* Built and managed CI/CD pipelines (Jenkins, GitHub) to accelerate release cycles and improve delivery consistency.
+* Strengthened security with advanced encryption, access management, and monitoring, reducing incidents by 40% and enhancing infrastructure resilience.
 
 
 ### Newfield Wireless | Berkeley, CA
@@ -136,7 +137,7 @@ Strengthened system security by implementing robust encryption and data protecti
 :   **Bachelor of Science (B.S.) Degree; Information Technology**; University of Massachusetts Lowell - Lowell, MA
     
 1998-2001
-:   **Bachelor of Science (B.S.) Degree; Electrical and Electronic Engineering**; National Polytechnic University Institute - Bamenda, CM
+:   **Bachelor of Science (B.S.) Degree; Electrical and Electronic Engineering**; Our Saviour Institute of Science, Agriculture & Technology, Enugu, Nigeria / National Polytechnic University Institute, Bamenda, Cameroon
 
 
 ----
