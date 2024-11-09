@@ -47,12 +47,11 @@ Highly skilled Senior Information Technology and Cybersecurity Professional purs
 
 #### Senior Security Monitoring Analyst //*(Contract) - Remote*
 
-Execute comprehensive security risk evaluations to pinpoint system vulnerabilities across private and government networks. Develop and implement robust data-safeguarding strategies through the rigorous application of security protocols. Supervise mission-critical security infrastructure, ensuring swift incident response and performing meticulous security audits. Orchestrate monthly vulnerability scans, coordinating mitigation efforts with interdepartmental teams. Fine-tune security configurations, investigate potential security breaches and administer user access for sensitive private and government applications.
-* Transformed security monitoring by implementing an advanced SIEM solution, enhancing threat detection and reducing response times by one-third.
-* Developed and deployed monitoring and alerting systems with Splunk and Prometheus with Grafana for proactive security management.
-* Conducted thorough security assessments, significantly reducing system vulnerabilities.
-* Led cross-functional teams to tackle complex security challenges and implement best practices.
-* Stayed updated on emerging threats, providing strategic recommendations to strengthen security.
+Execute comprehensive security risk evaluations to pinpoint system vulnerabilities across organizational networks. Develop and implement robust data-safeguarding strategies through the rigorous application of security protocols. Supervise mission-critical security infrastructure, ensuring swift incident response and performing meticulous security audits. Orchestrate monthly vulnerability scans, coordinating mitigation efforts with interdepartmental teams. Fine-tune security configurations, investigate potential security breaches, and administer user access for sensitive organizational applications.
+✨ Performed vulnerability scans with Nessus, tested security controls, and monitored systems using intrusion detection and prevention tools (Juniper Networks) to assess and escalate security risks, strengthening system resilience against threats.
+✨ Developed and implemented monitoring and alerting systems using SIEM tools like Splunk to proactively manage security, generate alerts for compromised assets, track incidents, and prioritize tickets for timely remediation.
+✨ Developed and maintained dashboards and reports to communicate real-time cybersecurity posture and progress.
+✨ Proactively monitored emerging threats and provided strategic recommendations to strengthen security, while supporting training and awareness programs, identifying vulnerabilities, and collaborating on remediation efforts.
 
 
 ### Brigham and Women’s Hospital Inc. | Boston, MA.
