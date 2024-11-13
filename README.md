@@ -48,10 +48,10 @@ Highly skilled Senior Information Technology and Cybersecurity Professional purs
 #### Cybersecurity Monitoring Analyst //*(Contract) - Remote*
 
 Execute comprehensive security risk evaluations to pinpoint system vulnerabilities across organizational networks. Develop and implement robust data-safeguarding strategies through the rigorous application of security protocols. Supervise mission-critical security infrastructure, ensuring swift incident response and performing meticulous security audits. Orchestrate monthly vulnerability scans, coordinating mitigation efforts with interdepartmental teams. Fine-tune security configurations, investigate potential security breaches, and administer user access for sensitive organizational applications.
-* Performed vulnerability scans with Nessus, tested security controls, and monitored systems using intrusion detection and prevention tools (Juniper Networks) to assess and escalate security risks, strengthening system resilience against threats.
-* Developed and implemented monitoring and alerting systems using SIEM tools like Splunk to proactively manage security, generate alerts for compromised assets, track incidents, and prioritize tickets for timely remediation.
-* Developed and maintained dashboards and reports to communicate real-time cybersecurity posture and progress.
-* Proactively monitored emerging threats and provided strategic recommendations to strengthen security, while supporting training and awareness programs, identifying vulnerabilities, and collaborating on remediation efforts.
+* ✨ Performed vulnerability scans with Nessus, tested security controls, and monitored systems using intrusion detection and prevention tools (Juniper Networks) to assess and escalate security risks, strengthening system resilience against threats.
+* ✨ Developed and implemented monitoring and alerting systems using SIEM tools like Splunk to proactively manage security, generate alerts for compromised assets, track incidents, and prioritize tickets for timely remediation.
+* ✨ Developed and maintained dashboards and reports to communicate real-time cybersecurity posture and progress.
+* ✨ Proactively monitored emerging threats and provided strategic recommendations to strengthen security, while supporting training and awareness programs, identifying vulnerabilities, and collaborating on remediation efforts.
 
 
 ### Brigham and Women’s Hospital Inc. | Boston, MA.
@@ -61,9 +61,9 @@ Execute comprehensive security risk evaluations to pinpoint system vulnerabiliti
 ##### *March 2008 - Present*
 
 Supervise the quality assurance processes for surgical instruments, ensuring they adhere to regulatory standards and are safe for use. Perform comprehensive inspections and testing to detect defects or issues. Implement process improvements to boost the quality and efficiency of QA procedures and maintain detailed records of all inspections, tests, and QA activities.
-* Collaborated with cross-functional teams, including risk management and safety, quality control and assurance, instrument vendors, and repairs, to resolve quality issues and implement solutions.
-* Ensured adherence to industry standards and regulations from organizations such as the Department of Health, the Joint Commission, the Occupational Safety and Health Administration, and the Food and Drug Administration.
-* Trained and mentored junior QA specialists on handling and inspection techniques, improving team capabilities, and promoting continuous improvement.  
+* ✔ Collaborated with cross-functional teams, including risk management and safety, quality control and assurance, instrument vendors, and repairs, to resolve quality issues and implement solutions.
+* ✔ Ensured adherence to industry standards and regulations from organizations such as the Department of Health, the Joint Commission, the Occupational Safety and Health Administration, and the Food and Drug Administration.
+* ✔ Trained and mentored junior QA specialists on handling and inspection techniques, improving team capabilities and promoting continuous improvement.  
 
 
 ### DataService Group INC. | Bear, DE 
@@ -86,9 +86,9 @@ Performed comprehensive security assessments of cloud infrastructures critical t
 ##### *May 2016 - April 2019*
 
 Evaluated and mitigated information security risks by conducting thorough analyses of vulnerabilities and potential threats across organizational systems. Developed comprehensive privacy policies and training programs to ensure compliance with stringent data protection regulations. Managed operational risks associated with sensitive information assets, including oversight of data agreements and privacy impact assessments. Collaborated with various departments to evaluate business operations and implement appropriate privacy and security measures.
-* Improved incident response by creating a comprehensive plan and conducting regular exercises, reducing response times.
-* Streamlined handling procedures to minimize damage and enhance team coordination.
-* Adapted swiftly to new privacy regulations, developing actionable policies and procedures.
+* 📌 Improved incident response by creating a comprehensive plan and conducting regular exercises, reducing response times.
+* 📌 Streamlined handling procedures to minimize damage and enhance team coordination.
+* 📌 Adapted swiftly to new privacy regulations, developing actionable policies and procedures.
 
 
 ### Widelink Technologies | Williamstown, NJ
@@ -98,10 +98,10 @@ Evaluated and mitigated information security risks by conducting thorough analys
 ##### *(May 2014 - April 2016)*
 
 Contributed, to cloud infrastructure projects through design, deployment, and optimization of cloud environments for scalability and performance. Developed and applied automation scripts and tools to streamline provisioning, deployment, and management processes. Ensured high availability and reliability of cloud services through meticulous management of upgrades, migrations, and maintenance. Conducted thorough assessments and audits to identify and mitigate vulnerabilities, risks, and compliance issues within cloud environments.
-* Designed and maintained scalable AWS infrastructure for high-availability applications, ensuring robust performance.
-* Automated infrastructure provisioning, configuration, and deployment using IaC tools (Terraform, CloudFormation, Ansible), enhancing efficiency and accuracy.
-* Built and managed CI/CD pipelines (Jenkins, GitHub) to accelerate release cycles and improve delivery consistency.
-* Strengthened security with advanced encryption, access management, and monitoring, reducing incidents by 40% and enhancing infrastructure resilience.
+* 🎯 Designed and maintained scalable AWS infrastructure for high-availability applications, ensuring robust performance.
+* 🎯 Automated infrastructure provisioning, configuration, and deployment using IaC tools (Terraform, CloudFormation, Ansible), enhancing efficiency and accuracy.
+* 🎯 Built and managed CI/CD pipelines (Jenkins, GitHub) to accelerate release cycles and improve delivery consistency.
+* 🎯 Strengthened security with advanced encryption, access management, and monitoring, reducing incidents by 40% and enhancing infrastructure resilience.
 
 
 ### Newfield Wireless | Berkeley, CA
@@ -111,9 +111,9 @@ Contributed, to cloud infrastructure projects through design, deployment, and op
 ##### *May 2012 - April 2014*
 
 Strengthened system security by implementing robust encryption and data protection controls across hybrid environments, collaborating with IT and operations teams to integrate security measures into existing workflows. Maintained security architecture frameworks and ensured regulatory compliance for on-premises and cloud systems. Implemented monitoring solutions (Nagios, Prometheus with Grafana) to enable real-time incident detection and response, improving system reliability.
-* Implemented updates, patches, and security measures to protect system integrity.
-* Enhanced server stability and performance, achieving near-perfect uptime for critical systems.
-* Automated server management tasks by implementing Ansible playbooks and documented configurations and operational procedures to support team efficiency and compliance.
+* 📍 Implemented updates, patches, and security measures to protect system integrity.
+* 📍 Enhanced server stability and performance, achieving near-perfect uptime for critical systems.
+* 📍 Automated server management tasks by implementing Ansible playbooks; and documented configurations, and operational procedures to support team efficiency and compliance.
 
 
 ----
