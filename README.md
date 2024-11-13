@@ -72,11 +72,11 @@ Supervise the quality assurance processes for surgical instruments, ensuring the
 
 ##### *(May 2019 - April 2021)*
 
-Performed exhaustive security evaluations of cloud-based infrastructures crucial to private and government operations. Formulated and implemented tailored security measures and policies to safeguard classified cloud assets, ensuring strict adherence to federal compliance frameworks. Vigilantly monitored cloud environments for security incidents, swiftly analyzing and neutralizing potential threats to minimize impact on private and government systems.
-*	Reduced cloud security vulnerabilities by 40% through analysis and automated security policies.
-*	Led initiatives to fix major cloud misconfigurations, enhancing system integrity and data protection.
-*	Collaborated with IT teams to ensure compliance with cloud security best practices.
-*	Coordinated complex security projects across departments, ensuring timely completion and adherence to government standards.
+Performed comprehensive security assessments of cloud infrastructures critical to private and government operations, monitoring for incidents and mitigating threats. Configured IAM policies to enforce least-privilege access, enhancing security. Performed vulnerability assessments and compliance checks to prioritize remediation efforts. Integrated security protocols into CI/CD pipelines, reducing deployment risks. Supported incident response with forensic analysis and root cause investigations to expedite resolutions.
+* 🚩 Monitored and analyzed cloud infrastructure security with tools like AWS CloudTrail to proactively detect and mitigate threats, configured IAM policies across multi-cloud environments to enforce least-privilege access, and improved security by 20% through enhanced policy adherence.
+* 🚩 Performed regular vulnerability assessments and compliance checks in alignment with industry standards (e.g., CIS, NIST), reporting findings to senior security analysts to prioritize remediation efforts.
+* 🚩 Collaborated with DevOps teams to integrate security protocols into CI/CD pipelines, reducing deployment risks and ensuring secure code delivery through automated security scans and policies.
+* 🚩 Supported incident response by gathering forensic evidence from cloud services, analyzing logs, and participating in root cause analysis to expedite resolution times and minimize operational impact.
 
 
 ### Tar Technologies LLC. | Washington, DC
