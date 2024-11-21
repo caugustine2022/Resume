@@ -41,7 +41,7 @@ Highly skilled Senior Information Technology and Cybersecurity Professional purs
 ----
 ----
 
-### Tar Technologies LLC. | Washington, DC 
+### DataService Group INC. | Bear, DE  
 
 ##### *April 2021 - Present*
 
@@ -66,7 +66,7 @@ Supervise the quality assurance processes for surgical instruments, ensuring the
 * ✔ Trained and mentored junior QA specialists on handling and inspection techniques, improving team capabilities and promoting continuous improvement.  
 
 
-### DataService Group INC. | Bear, DE 
+### Tar Technologies LLC. | Washington, DC 
 
 #### Associate Cloud Security Analyst //*(Contract) - Remote*
 
