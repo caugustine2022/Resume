@@ -30,8 +30,9 @@ Highly skilled Senior Information Technology and Cybersecurity Professional purs
 ###### Cloud Platforms:	*Amazon Web Services (AWS EC2, IAM, Lambda, S3, EBS, RDS, DynamoDB, VPC, Route 53)*
 ###### Operating Systems:	*Windows, RedHat, CentOS, Ubuntu*
 ###### Project Management:	*Jira-Kanban Board, Confluence*
-###### Domain:	*Cloud Security Architecture, Infrastructure Management, Compliance Adherence, Security Monitoring, Vulnerability Management, Identity Access Management, Risk Assessments, Data Protection, Incident Response, Privacy Policies*
-###### Security and Privacy:	*Endpoint Security, Identity Access Management, Risk Assessment Management, Data Encryption and Cryptography, Log Management, Data Privacy Solutions, Security Frameworks & Compliance*
+###### Domain:	*Vulnerability Management, Identity Access Management, Cloud Security Architecture, Infrastructure Management, Security Monitoring, Risk Assessments, Incident Response*
+###### Security and Privacy:	*Endpoint Security, Risk Management, Data Encryption and Cryptography, Log Management, Privacy Solutions, Security Frameworks and Compliance, Data Privacy and Protection*
+###### Frameworks: *NIST CSF, CVSS, ITIL, CIS Controls, SANS Incident Handling*
  
 
 ----
