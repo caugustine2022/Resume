@@ -13,7 +13,9 @@
 ### **Professional Summary**
 ----
 
-Highly skilled Senior Information Technology and Cybersecurity Professional pursuing a Ph.D. in Information Technology, bringing innovative ideas to cloud security, infrastructure management, and compliance. Proven track record of enhancing security postures through risk assessments, vulnerability management, and implementation of robust security measures. Adept at leveraging advanced tools like Splunk, Prometheus with Grafana, and AWS services to optimize security monitoring and incident response. Demonstrates strong leadership in guiding cross-functional teams and managing complex security projects. Combines academic expertise with hands-on experience, offering a unique blend of theoretical depth and practical knowledge to tackle evolving cybersecurity challenges in private and government environments.          
+Solutions-Oriented Information Technology and Cybersecurity Professional | Ph.D. Candidate in Information Technology
+Dynamic and highly skilled cybersecurity professional with a proven track record of enhancing organizational security, optimizing IT infrastructure, and ensuring compliance with regulatory standards across private and government sectors. Expertise in conducting risk assessments, managing vulnerabilities, and implementing advanced security measures to protect critical systems and sensitive data. Proficient in utilizing cutting-edge tools such as Splunk, Nessus, and AWS services to enhance security monitoring, incident response, and operational resilience. A strategic leader with a history of managing cross-functional teams and delivering complex security projects on time and within scope. Combines deep academic knowledge with hands-on experience to craft innovative, practical solutions for tackling evolving cybersecurity challenges.
+          
 
 
 ----
@@ -42,24 +44,27 @@ Highly skilled Senior Information Technology and Cybersecurity Professional purs
 ----
 ----
 
-### DataService Group INC. | Bear, DE  
 
-##### *April 2021 - Present*
+### Brigham and Women’s Hospital Inc. | Boston, MA.
 
-#### Cybersecurity Monitoring Analyst //*(Contract) - Remote*
+#### IT Security and Desktop Support Liaison, OR/CSS Operations //*(Seasonal) - Hybrid*
+ 
+##### *April 2023 - Present*
 
-Execute comprehensive security risk evaluations to pinpoint system vulnerabilities across organizational networks. Develop and implement robust data-safeguarding strategies through the rigorous application of security protocols. Supervise mission-critical security infrastructure, ensuring swift incident response and performing meticulous security audits. Orchestrate monthly vulnerability scans, coordinating mitigation efforts with interdepartmental teams. Fine-tune security configurations, investigate potential security breaches, and administer user access for sensitive organizational applications.
-* ✨ Performed vulnerability scans with Nessus, tested security controls, and monitored systems using intrusion detection and prevention tools (Juniper Networks) to assess and escalate security risks, strengthening system resilience against threats.
-* ✨ Developed and implemented monitoring and alerting systems using SIEM tools like Splunk to proactively manage security, generate alerts for compromised assets, track incidents, and prioritize tickets for timely remediation.
-* ✨ Developed and maintained dashboards and reports to communicate real-time cybersecurity posture and progress.
-* ✨ Proactively monitored emerging threats and provided strategic recommendations to strengthen security, while supporting training and awareness programs, identifying vulnerabilities, and collaborating on remediation efforts.
+Ensure IT security compliance and minimize disruptions in OR and CSS environments by implementing protocols, troubleshooting systems, and monitoring cybersecurity threats. Facilitates effective communication between teams, train staff on secure IT practices, and support system upgrades and new technology implementations.
+* 🚩 Ensure IT security compliance by implementing protocols to safeguard sensitive data and systems within the Operating Room (OR) and Clinical Support Services (CSS), adhering to HIPAA and hospital regulations.
+* 🚩 Provide desktop support by troubleshooting hardware, software, and network issues for workstations and peripherals in the OR and CSS environments, ensuring minimal operational disruptions.
+* 🚩 Monitor and address cybersecurity threats through regular vulnerability assessments scans with Nessus, incident response, and endpoint protection for systems used in OR/CSS operations.
+* 🚩 Act as a liaison between IT, OR, and CSS teams, facilitating clear communication and effective resolution of technical and security-related issues.
+* 🚩 Train OR/CSS staff on secure IT practices and supported IT projects, including system upgrades, testing, and technology implementation.
+* 🚩 Document and track support activities, incidents, and resolutions while maintaining accurate records for compliance and operational efficiency.  
 
 
 ### Brigham and Women’s Hospital Inc. | Boston, MA.
 
 #### Senior Lead Certified QA Specialist, Surgical Instrumentation //*(Seasonal) - Onsite*
  
-##### *March 2008 - Present*
+##### *March 2008 - April 2023*
 
 Supervise the quality assurance processes for surgical instruments, ensuring they adhere to regulatory standards and are safe for use. Perform comprehensive inspections and testing to detect defects or issues. Implement process improvements to boost the quality and efficiency of QA procedures and maintain detailed records of all inspections, tests, and QA activities.
 * ✔ Collaborated with cross-functional teams, including risk management and safety, quality control and assurance, instrument vendors, and repairs, to resolve quality issues and implement solutions.
@@ -67,17 +72,19 @@ Supervise the quality assurance processes for surgical instruments, ensuring the
 * ✔ Trained and mentored junior QA specialists on handling and inspection techniques, improving team capabilities and promoting continuous improvement.  
 
 
-### Tar Technologies LLC. | Washington, DC 
+### DataService Group INC. | Bear, DE  
 
-#### Associate Cloud Security Analyst //*(Contract) - Remote*
+##### *April 2021 - Present*
 
-##### *(May 2019 - April 2021)*
+#### Associate Cloud Infrastructure & DevOps Engineer //*(Contract) - Remote*
 
-Performed comprehensive security assessments of cloud infrastructures critical to private and government operations, monitoring for incidents and mitigating threats. Configured IAM policies to enforce least-privilege access, enhancing security. Performed vulnerability assessments and compliance checks to prioritize remediation efforts. Integrated security protocols into CI/CD pipelines, reducing deployment risks. Supported incident response with forensic analysis and root cause investigations to expedite resolutions.
-* 🚩 Monitored and analyzed cloud infrastructure security with tools like AWS CloudTrail to proactively detect and mitigate threats, configured IAM policies across multi-cloud environments to enforce least-privilege access, and improved security by 20% through enhanced policy adherence.
-* 🚩 Performed regular vulnerability assessments and compliance checks in alignment with industry standards (e.g., CIS, NIST), reporting findings to senior security analysts to prioritize remediation efforts.
-* 🚩 Collaborated with DevOps teams to integrate security protocols into CI/CD pipelines, reducing deployment risks and ensuring secure code delivery through automated security scans and policies.
-* 🚩 Supported incident response by gathering forensic evidence from cloud services, analyzing logs, and participating in root cause analysis to expedite resolution times and minimize operational impact.
+Performed security assessments of cloud infrastructures, including vulnerability assessments, IAM policy configuration, and incident response, while integrating security protocols into CI/CD pipelines to mitigate threats and reduce deployment risks. Contributed to cloud infrastructure projects by optimizing environments for scalability, ensuring high availability, implementing automation for provisioning, and strengthening system security with encryption and real-time monitoring solutions.
+* ✨ Implemented security updates, patches, and measures while designing and maintaining scalable AWS infrastructure to ensure system integrity, high availability, and robust performance.
+* ✨ Automated infrastructure provisioning, configuration, and deployment using IaC tools (Terraform, CloudFormation, Ansible), improving efficiency and accuracy.
+•	Built and managed CI/CD pipelines (Jenkins, GitHub) to accelerate release cycles and improve delivery consistency.
+* ✨ Strengthened security with advanced encryption, access management, and monitoring, reducing incidents by 40% and enhancing infrastructure resilience.
+* ✨ Monitored and analyzed cloud infrastructure security using AWS CloudTrail and IAM policies, improving security by 20% through proactive threat mitigation and enhanced policy adherence.
+* ✨ Collaborated with DevOps teams to integrate security protocols into CI/CD pipelines, reducing deployment risks, and supported incident response through forensic analysis and root cause investigations.
 
 
 ### Tar Technologies LLC. | Washington, DC
@@ -86,35 +93,13 @@ Performed comprehensive security assessments of cloud infrastructures critical t
 
 ##### *May 2016 - April 2019*
 
-Evaluated and mitigated information security risks by conducting thorough analyses of vulnerabilities and potential threats across organizational systems. Developed comprehensive privacy policies and training programs to ensure compliance with stringent data protection regulations. Managed operational risks associated with sensitive information assets, including oversight of data agreements and privacy impact assessments. Collaborated with various departments to evaluate business operations and implement appropriate privacy and security measures.
-* 📌 Improved incident response by creating a comprehensive plan and conducting regular exercises, reducing response times.
-* 📌 Streamlined handling procedures to minimize damage and enhance team coordination.
-* 📌 Adapted swiftly to new privacy regulations, developing actionable policies and procedures.
-
-
-### Widelink Technologies | Williamstown, NJ
-
-#### Cloud Infrastructure & DevOps Engineer //*(Contract) - Remote*
-
-##### *(May 2014 - April 2016)*
-
-Contributed, to cloud infrastructure projects through design, deployment, and optimization of cloud environments for scalability and performance. Developed and applied automation scripts and tools to streamline provisioning, deployment, and management processes. Ensured high availability and reliability of cloud services through meticulous management of upgrades, migrations, and maintenance. Conducted thorough assessments and audits to identify and mitigate vulnerabilities, risks, and compliance issues within cloud environments.
-* 🎯 Designed and maintained scalable AWS infrastructure for high-availability applications, ensuring robust performance.
-* 🎯 Automated infrastructure provisioning, configuration, and deployment using IaC tools (Terraform, CloudFormation, Ansible), enhancing efficiency and accuracy.
-* 🎯 Built and managed CI/CD pipelines (Jenkins, GitHub) to accelerate release cycles and improve delivery consistency.
-* 🎯 Strengthened security with advanced encryption, access management, and monitoring, reducing incidents by 40% and enhancing infrastructure resilience.
-
-
-### Newfield Wireless | Berkeley, CA
-
-#### Systems Operations Analyst //*(Contract) - Remote*
-
-##### *May 2012 - April 2014*
-
-Strengthened system security by implementing robust encryption and data protection controls across hybrid environments, collaborating with IT and operations teams to integrate security measures into existing workflows. Maintained security architecture frameworks and ensured regulatory compliance for on-premises and cloud systems. Implemented monitoring solutions (Nagios, Prometheus with Grafana) to enable real-time incident detection and response, improving system reliability.
-* 📍 Implemented updates, patches, and security measures to protect system integrity.
-* 📍 Enhanced server stability and performance, achieving near-perfect uptime for critical systems.
-* 📍 Automated server management tasks by implementing Ansible playbooks; and documented configurations, and operational procedures to support team efficiency and compliance.
+Conducted security risk evaluations to identify vulnerabilities and mitigate threats across organizational networks. Developed and implemented safeguarding strategies, fine-tuned configurations, and administered user access for sensitive applications. Supervised critical security infrastructure, conducted audits, and ensured swift incident response. Orchestrated vulnerability scans and collaborated with teams to coordinate mitigation and compliance efforts. Managed operational risks, created privacy policies, and led training programs to strengthen security and regulatory adherence.
+* 📌 Conducted vulnerability scans using Nessus, tested security controls, and monitored systems with intrusion detection and prevention tools, effectively assessing and escalating security risks to enhance system resilience against threats.
+* 📌 Designed and implemented monitoring and alerting systems using SIEM tools such as Splunk, enabling proactive security management, generating alerts for compromised assets, tracking incidents, and prioritizing tickets for timely remediation.
+* 📌 Developed dashboards and streamlined incident-handling procedures to enhance real-time cybersecurity visibility, minimize damage, and improve team coordination.
+* 📌 Monitored emerging threats and delivered strategic recommendations to strengthen security, supported training and awareness programs, identified vulnerabilities, and collaborated with teams on remediation efforts.
+* 📌 Enhanced incident response capabilities by developing a comprehensive plan and conducting regular exercises, significantly reducing response times.
+* 📌 Quickly adapted to new privacy regulations by formulating actionable policies and procedures, ensuring compliance and robust data protection.
 
 
 ----
