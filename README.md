@@ -13,7 +13,7 @@
 ### **Professional Summary**
 ----
 
-### Solutions-Oriented Information Technology and Cybersecurity Professional | Ph.D. Candidate in Information Technology
+#### Solutions-Oriented Information Technology and Cybersecurity Professional | Ph.D. Candidate in Information Technology
 Dynamic and highly skilled cybersecurity professional with a proven track record of enhancing organizational security, optimizing IT infrastructure, and ensuring compliance with regulatory standards across private and government sectors. Expertise in conducting risk assessments, managing vulnerabilities, and implementing advanced security measures to protect critical systems and sensitive data. Proficient in utilizing cutting-edge tools such as Splunk, Nessus, and AWS services to enhance security monitoring, incident response, and operational resilience. A strategic leader with a history of managing cross-functional teams and delivering complex security projects on time and within scope. Combines deep academic knowledge with hands-on experience to craft innovative, practical solutions for tackling evolving cybersecurity challenges.
           
 
