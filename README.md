@@ -47,9 +47,9 @@ Dynamic and highly skilled cybersecurity professional with a proven track record
 
 ### Brigham and Women’s Hospital Inc. | Boston, MA.
 
-#### IT Security and Desktop Support Liaison, OR/CSS Operations //*(Seasonal) - Hybrid*
+#### IT Security & Desktop Support Liaison, OR/CSS Operations //*(Part-Time) - Hybrid*
  
-##### *April 2023 - Present*
+##### *April 2022 - Present*
 
 Ensure IT security compliance and minimize disruptions in OR and CSS environments by implementing protocols, troubleshooting systems, and monitoring cybersecurity threats. Facilitates effective communication between teams, trains staff on secure IT practices, and supports system upgrades and new technology implementations.
 * 🚩 Ensure IT security compliance by implementing protocols to safeguard sensitive data and systems within the Operating Room (OR) and Clinical Support Services (CSS), adhering to HIPAA and hospital regulations.
@@ -62,19 +62,19 @@ Ensure IT security compliance and minimize disruptions in OR and CSS environment
 
 ### Brigham and Women’s Hospital Inc. | Boston, MA.
 
-#### Senior Lead Certified QA Specialist, Surgical Instrumentation //*(Seasonal) - Onsite*
+#### Senior Lead Certified QA Specialist, Surgical Instrumentation //*(Per-Diem) - Onsite*
  
-##### *March 2008 - April 2023*
+##### *March 2008 - Present*
 
 Supervise the quality assurance processes for surgical instruments, ensuring they adhere to regulatory standards and are safe for use. Perform comprehensive inspections and testing to detect defects or issues. Implement process improvements to boost the quality and efficiency of QA procedures and maintain detailed records of all inspections, tests, and QA activities.
-* ✔ Collaborated with cross-functional teams, including risk management and safety, quality control and assurance, instrument vendors, and repairs, to resolve quality issues and implement solutions.
-* ✔ Ensured adherence to industry standards and regulations from organizations such as the Department of Health, the Joint Commission, the Occupational Safety and Health Administration, and the Food and Drug Administration.
-* ✔ Trained and mentored junior QA specialists on handling and inspection techniques, improving team capabilities and promoting continuous improvement.  
+* ✔ Collaborate with cross-functional teams, including risk management and safety, quality control and assurance, instrument vendors, and repairs, to resolve quality issues and implement solutions.
+* ✔ Ensure adherence to industry standards and regulations from organizations such as the Department of Health, the Joint Commission, the Occupational Safety and Health Administration, and the Food and Drug Administration.
+* ✔ Train and mentor junior QA specialists on handling and inspection techniques, improving team capabilities and promoting continuous improvement.  
 
 
 ### DataService Group INC. | Bear, DE  
 
-##### *April 2021 - Present*
+##### *May 2019 — April 2022*
 
 #### Associate Cloud Infrastructure & DevOps Engineer //*(Contract) - Remote*
 
@@ -91,7 +91,7 @@ Performed security assessments of cloud infrastructures, including vulnerability
 
 #### Data Privacy & Security Risk Analyst //*(Contract) - Remote*
 
-##### *May 2016 - April 2019*
+##### *May 2015 — April 2019*
 
 Conducted security risk evaluations to identify vulnerabilities and mitigate threats across organizational networks. Developed and implemented safeguarding strategies, fine-tuned configurations, and administered user access for sensitive applications. Supervised critical security infrastructure, conducted audits, and ensured swift incident response. Orchestrated vulnerability scans and collaborated with teams to coordinate mitigation and compliance efforts. Managed operational risks, created privacy policies, and led training programs to strengthen security and regulatory adherence.
 * 📌 Conducted vulnerability scans using Nessus, tested security controls, and monitored systems with intrusion detection and prevention tools, effectively assessing and escalating security risks to enhance system resilience against threats.
