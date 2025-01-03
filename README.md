@@ -47,11 +47,11 @@ Dynamic and highly skilled cybersecurity professional with a proven track record
 
 ### Brigham and Women’s Hospital Inc. | Boston, MA.
 
-#### Clinical IT Support & Security Specialist Liaison – OR/CSS Operations //*(Part-Time) - Hybrid*
+#### Clinical IT Support & Security Specialist Liaison — OR/CSS Operations //*(Part-Time) - Hybrid*
  
 ##### *April 2022 - Present*
 
-Implement protocols, troubleshoot systems, and monitor cybersecurity threats to ensure IT security compliance and minimize disruptions in OR and CSS environments. Facilitate effective communication between teams, train staff on secure IT practices, and support system upgrades and new technology implementations.
+Implement protocols, troubleshoot systems, and monitor cybersecurity threats to ensure IT security compliance and minimize disruptions in OR and CSS environments. Facilitate effective team communication, train staff on secure IT practices, and support system upgrades and new technology implementations.
 * 🚩 Ensure IT security compliance by implementing protocols to safeguard sensitive data and systems within the Operating Room (OR) and Clinical Support Services (CSS), adhering to HIPAA and hospital regulations.
 * 🚩 Provide desktop support by troubleshooting hardware, software, and network issues for workstations and peripherals in the OR and CSS environments, ensuring minimal operational disruptions.
 * 🚩 Monitor and address cybersecurity threats through regular vulnerability assessment scans with Nessus, incident response, and endpoint protection for OR/CSS operations systems.
@@ -62,7 +62,7 @@ Implement protocols, troubleshoot systems, and monitor cybersecurity threats to 
 
 ### Brigham and Women’s Hospital Inc. | Boston, MA.
 
-#### Senior Lead Certified QA Specialist, Surgical Instrumentation //*(Per-Diem) - Onsite*
+#### Senior Lead Certified QA Specialist — Surgical Instrumentation //*(Per-Diem) - Onsite*
  
 ##### *March 2008 - Present*
 
