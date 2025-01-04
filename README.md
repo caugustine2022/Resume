@@ -62,14 +62,14 @@ Implement protocols, troubleshoot systems, and monitor cybersecurity threats to 
 
 ### Brigham and Women’s Hospital Inc. | Boston, MA.
 
-#### Senior Lead Certified QA Specialist — Surgical Instrumentation //*(Per-Diem) - Onsite*
+#### Senior Certified QA Surgical Instrumentation Specialist — OR/CSS //*(Per-Diem) - Onsite*
  
 ##### *March 2008 - Present*
 
 Supervise the quality assurance processes for surgical instruments, ensuring they adhere to regulatory standards and are safe for use. Perform comprehensive inspections and testing to detect defects or issues. Implement process improvements to boost the quality and efficiency of QA procedures and maintain detailed records of all inspections, tests, and QA activities.
 * ✔ Collaborate with cross-functional teams, including risk management and safety, quality control and assurance, instrument vendors, and repairs, to resolve quality issues and implement solutions.
 * ✔ Ensure adherence to industry standards and regulations from organizations such as the Department of Health, the Joint Commission, the Occupational Safety and Health Administration, and the Food and Drug Administration.
-* ✔ Train and mentor junior QA specialists on handling and inspection techniques, improving team capabilities and promoting continuous improvement.  
+* ✔ Train and mentor junior QA surgical instruments specialists on handling and inspection techniques, improving team capabilities and promoting continuous improvement.  
 
 
 ### DataService Group INC. | Bear, DE  
@@ -97,7 +97,7 @@ Conducted security risk evaluations to identify vulnerabilities and mitigate thr
 * 📌 Conducted vulnerability scans using Nessus, tested security controls, and monitored systems with intrusion detection and prevention tools, effectively assessing and escalating security risks to enhance system resilience against threats.
 * 📌 Designed and implemented monitoring and alerting systems using SIEM tools such as Splunk, enabling proactive security management, generating alerts for compromised assets, tracking incidents, and prioritizing tickets for timely remediation.
 * 📌 Developed dashboards and streamlined incident-handling procedures to enhance real-time cybersecurity visibility, minimize damage, and improve team coordination.
-* 📌 Monitored emerging threats and delivered strategic recommendations to strengthen security, supported training and awareness programs, identified vulnerabilities, and collaborated with teams on remediation efforts.
+* 📌 Monitored emerging threats, delivered strategic recommendations to strengthen security, supported training and awareness programs, identified vulnerabilities, and collaborated with teams on remediation efforts.
 * 📌 Enhanced incident response capabilities by developing a comprehensive plan and conducting regular exercises, significantly reducing response times.
 * 📌 Quickly adapted to new privacy regulations by formulating actionable policies and procedures, ensuring compliance and robust data protection.
 
